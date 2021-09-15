@@ -19,14 +19,14 @@
   <HelpKINode Title="AccessParticipant.CustomerNumber property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderAccess.AccessParticipant.CustomerNumber.htm" />
   <HelpKINode Title="AccessParticipant.Email property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderAccess.AccessParticipant.Email.htm" />
   <HelpKINode Title="AccessPeriodCode property">
-    <HelpKINode Title="AccessPeriodCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderAccess.AccessPeriodCode.htm" />
     <HelpKINode Title="AccessPeriodCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLineAccess.AccessPeriodCode.htm" />
+    <HelpKINode Title="AccessPeriodCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderAccess.AccessPeriodCode.htm" />
   </HelpKINode>
   <HelpKINode Title="AccessPointOnlyParticipants property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderAccess.AccessPointOnlyParticipants.htm" />
   <HelpKINode Title="AccessServiceCode property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLineAccess.AccessServiceCode.htm" />
   <HelpKINode Title="AccessStatusCode property">
-    <HelpKINode Title="AccessStatusCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.OrderStatus.AccessStatusCode.htm" />
     <HelpKINode Title="AccessStatusCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderStatus.AccessStatusCode.htm" />
+    <HelpKINode Title="AccessStatusCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.OrderStatus.AccessStatusCode.htm" />
   </HelpKINode>
   <HelpKINode Title="AccessType property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLineAccess.OrderLineParticipant.AccessType.htm" />
   <HelpKINode Title="AccessTypes.Administrator field" Url="html/F-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLineAccess.OrderLineParticipant.AccessTypes.Administrator.htm" />
@@ -79,8 +79,8 @@
   </HelpKINode>
   <HelpKINode Title="ActualShipViaCode property">
     <HelpKINode Title="ActualShipViaCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderShippingInfo.ActualShipViaCode.htm" />
-    <HelpKINode Title="ActualShipViaCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderProduct.ActualShipViaCode.htm" />
     <HelpKINode Title="ActualShipViaCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.OrderShippingInfo.ActualShipViaCode.htm" />
+    <HelpKINode Title="ActualShipViaCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderProduct.ActualShipViaCode.htm" />
   </HelpKINode>
   <HelpKINode Title="AddDefaultMembershipElements property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderSubscription.AddDefaultMembershipElements.htm" />
   <HelpKINode Title="Address class">
@@ -115,28 +115,28 @@
   <HelpKINode Title="Address.PromoteByPhone3 property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Address.PromoteByPhone3.htm" />
   <HelpKINode Title="Address.PromoteBySms property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Address.PromoteBySms.htm" />
   <HelpKINode Title="AddressBlock property">
-    <HelpKINode Title="AddressBlock Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionShipTo.AddressBlock.htm" />
     <HelpKINode Title="AddressBlock Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionBillTo.AddressBlock.htm" />
     <HelpKINode Title="AddressBlock Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderCustomer.AddressBlock.htm" />
+    <HelpKINode Title="AddressBlock Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionShipTo.AddressBlock.htm" />
   </HelpKINode>
   <HelpKINode Title="AddressCode property">
     <HelpKINode Title="AddressCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderCustomer.AddressCode.htm" />
-    <HelpKINode Title="AddressCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionShipTo.AddressCode.htm" />
+    <HelpKINode Title="AddressCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionBillTo.AddressCode.htm" />
+    <HelpKINode Title="AddressCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedCustomer.AddressCode.htm" />
+    <HelpKINode Title="AddressCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.RenewalCustomer.AddressCode.htm" />
     <HelpKINode Title="AddressCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderCustomer.AddressCode.htm" />
     <HelpKINode Title="AddressCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Address.AddressCode.htm" />
-    <HelpKINode Title="AddressCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedCustomer.AddressCode.htm" />
-    <HelpKINode Title="AddressCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionBillTo.AddressCode.htm" />
-    <HelpKINode Title="AddressCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.RenewalCustomer.AddressCode.htm" />
     <HelpKINode Title="AddressCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLineAccess.OrderLineParticipant.AddressCode.htm" />
+    <HelpKINode Title="AddressCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionShipTo.AddressCode.htm" />
   </HelpKINode>
   <HelpKINode Title="Addresses property">
-    <HelpKINode Title="Addresses Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CustomerUpdateRequest.Addresses.htm" />
     <HelpKINode Title="Addresses Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CustomerSearch.Addresses.htm" />
+    <HelpKINode Title="Addresses Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CustomerUpdateRequest.Addresses.htm" />
     <HelpKINode Title="Addresses Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CustomerAddress.Addresses.htm" />
   </HelpKINode>
   <HelpKINode Title="AddressFlag property">
-    <HelpKINode Title="AddressFlag Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionShipTo.AddressFlag.htm" />
     <HelpKINode Title="AddressFlag Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.RenewalCustomer.AddressFlag.htm" />
+    <HelpKINode Title="AddressFlag Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionShipTo.AddressFlag.htm" />
   </HelpKINode>
   <HelpKINode Title="AddressStandard property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Country.AddressStandard.htm" />
   <HelpKINode Title="AddressStandardizationSetting property">
@@ -169,8 +169,8 @@
   <HelpKINode Title="AgreementBased enumeration member" Url="html/T-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLineAccess.PricingMethods.htm" />
   <HelpKINode Title="AgreementBased field" Url="html/F-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLineAccess.PricingMethods.AgreementBased.htm" />
   <HelpKINode Title="AgreementId property">
-    <HelpKINode Title="AgreementId Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderAccess.AgreementId.htm" />
     <HelpKINode Title="AgreementId Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLineAccess.AgreementId.htm" />
+    <HelpKINode Title="AgreementId Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderAccess.AgreementId.htm" />
     <HelpKINode Title="AgreementId Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderAssociation.AgreementId.htm" />
   </HelpKINode>
   <HelpKINode Title="AgreementType property">
@@ -183,11 +183,11 @@
   <HelpKINode Title="AlternateDeliveryIndicator property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderSubscription.AlternateDeliveryIndicator.htm" />
   <HelpKINode Title="AlternateDeliveryIndicators.Confirming field" Url="html/F-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderSubscription.AlternateDeliveryIndicators.Confirming.htm" />
   <HelpKINode Title="Amount property">
-    <HelpKINode Title="Amount Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.RelatedCredit.Amount.htm" />
-    <HelpKINode Title="Amount Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CommitDigitalWallet.Amount.htm" />
-    <HelpKINode Title="Amount Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CommitCheque.Amount.htm" />
-    <HelpKINode Title="Amount Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.AccountCredit.Amount.htm" />
     <HelpKINode Title="Amount Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderPayment.Amount.htm" />
+    <HelpKINode Title="Amount Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CommitDigitalWallet.Amount.htm" />
+    <HelpKINode Title="Amount Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.AccountCredit.Amount.htm" />
+    <HelpKINode Title="Amount Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CommitCheque.Amount.htm" />
+    <HelpKINode Title="Amount Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.RelatedCredit.Amount.htm" />
   </HelpKINode>
   <HelpKINode Title="AmountApplied property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderAppliedGiftCertificate.AmountApplied.htm" />
   <HelpKINode Title="AmountDue property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderInstallmentBilling.OrderSchedule.AmountDue.htm" />
@@ -218,8 +218,8 @@
   <HelpKINode Title="AppliedGiftCertificates property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.AppliedGiftCertificates.htm" />
   <HelpKINode Title="AppliesToAllItems property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.VoucherCode.AppliesToAllItems.htm" />
   <HelpKINode Title="ApplyToOrderNumber property">
-    <HelpKINode Title="ApplyToOrderNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.ApplyToOrderNumber.htm" />
     <HelpKINode Title="ApplyToOrderNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.ApplyToOrderNumber.htm" />
+    <HelpKINode Title="ApplyToOrderNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.ApplyToOrderNumber.htm" />
   </HelpKINode>
   <HelpKINode Title="ArpSequence property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.RelatedDebit.ArpSequence.htm" />
   <HelpKINode Title="AssociatedOrders property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.AssociatedOrders.htm" />
@@ -238,24 +238,24 @@
     <HelpKINode Title="authenticationResult Property " Url="html/P-CDSGlobal.WebOrderLibrary.Responses.Interfaces.ICyberSourceData.authenticationResult.htm" />
   </HelpKINode>
   <HelpKINode Title="authenticationStatusMessage property">
-    <HelpKINode Title="authenticationStatusMessage Property " Url="html/P-CDSGlobal.WebOrderLibrary.Responses.ClientResponse.authenticationStatusMessage.htm" />
     <HelpKINode Title="authenticationStatusMessage Property " Url="html/P-CDSGlobal.WebOrderLibrary.Responses.Interfaces.ICyberSourceData.authenticationStatusMessage.htm" />
+    <HelpKINode Title="authenticationStatusMessage Property " Url="html/P-CDSGlobal.WebOrderLibrary.Responses.ClientResponse.authenticationStatusMessage.htm" />
   </HelpKINode>
   <HelpKINode Title="authenticationTransactionID property">
-    <HelpKINode Title="authenticationTransactionID Property " Url="html/P-CDSGlobal.WebOrderLibrary.Responses.Interfaces.ICyberSourceData.authenticationTransactionID.htm" />
     <HelpKINode Title="authenticationTransactionID Property " Url="html/P-CDSGlobal.WebOrderLibrary.Responses.ClientResponse.authenticationTransactionID.htm" />
+    <HelpKINode Title="authenticationTransactionID Property " Url="html/P-CDSGlobal.WebOrderLibrary.Responses.Interfaces.ICyberSourceData.authenticationTransactionID.htm" />
   </HelpKINode>
   <HelpKINode Title="authorizationCode property">
-    <HelpKINode Title="authorizationCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.Responses.ClientResponse.authorizationCode.htm" />
     <HelpKINode Title="authorizationCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.Responses.Interfaces.ICyberSourceData.authorizationCode.htm" />
+    <HelpKINode Title="authorizationCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.Responses.ClientResponse.authorizationCode.htm" />
   </HelpKINode>
   <HelpKINode Title="AuthorizationCode property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreditCardAuthorisation.AuthorizationCode.htm" />
   <HelpKINode Title="AuthorizationDate property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreditCardAuthorisation.AuthorizationDate.htm" />
   <HelpKINode Title="AuthorizationInformation property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CommitCreditCard.AuthorizationInformation.htm" />
   <HelpKINode Title="AuthorizationTransaction property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreditCardAuthorisation.AuthorizationTransaction.htm" />
   <HelpKINode Title="authorizedDateTime property">
-    <HelpKINode Title="authorizedDateTime Property " Url="html/P-CDSGlobal.WebOrderLibrary.Responses.ClientResponse.authorizedDateTime.htm" />
     <HelpKINode Title="authorizedDateTime Property " Url="html/P-CDSGlobal.WebOrderLibrary.Responses.Interfaces.ICyberSourceData.authorizedDateTime.htm" />
+    <HelpKINode Title="authorizedDateTime Property " Url="html/P-CDSGlobal.WebOrderLibrary.Responses.ClientResponse.authorizedDateTime.htm" />
   </HelpKINode>
   <HelpKINode Title="AutoChargeCard property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionUpdateRequest.AutoChargeCard.htm" />
   <HelpKINode Title="AutoChargeDirectDebitAccount property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionUpdateRequest.AutoChargeDirectDebitAccount.htm" />
@@ -265,18 +265,18 @@
     <HelpKINode Title="OrderProduct.InventoryStates Enumeration" Url="html/T-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderProduct.InventoryStates.htm" />
   </HelpKINode>
   <HelpKINode Title="Backordered field">
-    <HelpKINode Title="Backordered Field" Url="html/F-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderLineStatus.Backordered.htm" />
     <HelpKINode Title="Backordered Field" Url="html/F-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderProduct.InventoryStates.Backordered.htm" />
+    <HelpKINode Title="Backordered Field" Url="html/F-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderLineStatus.Backordered.htm" />
   </HelpKINode>
   <HelpKINode Title="BackorderFlag property">
-    <HelpKINode Title="BackorderFlag Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.BackorderFlag.htm" />
     <HelpKINode Title="BackorderFlag Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.BackorderFlag.htm" />
+    <HelpKINode Title="BackorderFlag Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.BackorderFlag.htm" />
   </HelpKINode>
   <HelpKINode Title="BadgeTypeCode property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderConference.BadgeTypeCode.htm" />
   <HelpKINode Title="Balance property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.RelatedCredit.Balance.htm" />
   <HelpKINode Title="BalanceDue property">
-    <HelpKINode Title="BalanceDue Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.OrderAmounts.BalanceDue.htm" />
     <HelpKINode Title="BalanceDue Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderAmounts.BalanceDue.htm" />
+    <HelpKINode Title="BalanceDue Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.OrderAmounts.BalanceDue.htm" />
   </HelpKINode>
   <HelpKINode Title="BankAccount class">
     <HelpKINode Title="BankAccount Class" Url="html/T-CDSGlobal.WebOrderLibrary.MarsOrders.BankAccount.htm" />
@@ -316,11 +316,11 @@
   <HelpKINode Title="BillingAgreementId property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.DigitalWallet.BillingAgreementId.htm" />
   <HelpKINode Title="BillingCurrency property">
     <HelpKINode Title="BillingCurrency Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.ItemZoneRate.BillingCurrency.htm" />
-    <HelpKINode Title="BillingCurrency Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionZoneRate.BillingCurrency.htm" />
-    <HelpKINode Title="BillingCurrency Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.RelatedDebit.BillingCurrency.htm" />
     <HelpKINode Title="BillingCurrency Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.WebCustomer.BillingCurrency.htm" />
     <HelpKINode Title="BillingCurrency Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.RelatedCredit.BillingCurrency.htm" />
     <HelpKINode Title="BillingCurrency Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionItemZoneRate.BillingCurrency.htm" />
+    <HelpKINode Title="BillingCurrency Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.RelatedDebit.BillingCurrency.htm" />
+    <HelpKINode Title="BillingCurrency Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionZoneRate.BillingCurrency.htm" />
   </HelpKINode>
   <HelpKINode Title="BillingCurrencyCode property">
     <HelpKINode Title="BillingCurrencyCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.BankAccountCreateRequest.BillingCurrencyCode.htm" />
@@ -332,15 +332,15 @@
   <HelpKINode Title="BillingCustomerName property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Subscription.BillingCustomerName.htm" />
   <HelpKINode Title="BillingCustomerNumber property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Subscription.BillingCustomerNumber.htm" />
   <HelpKINode Title="BillingOrganization property">
-    <HelpKINode Title="BillingOrganization Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.BankAccountCreateRequest.BillingOrganization.htm" />
     <HelpKINode Title="BillingOrganization Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.RelatedDebit.BillingOrganization.htm" />
     <HelpKINode Title="BillingOrganization Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreditCardCreateRequest.BillingOrganization.htm" />
+    <HelpKINode Title="BillingOrganization Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.BankAccountCreateRequest.BillingOrganization.htm" />
   </HelpKINode>
   <HelpKINode Title="BillingOrganizationCode property">
+    <HelpKINode Title="BillingOrganizationCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.BillingOrganizationCode.htm" />
     <HelpKINode Title="BillingOrganizationCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.BillingOrganizationCode.htm" />
     <HelpKINode Title="BillingOrganizationCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionSearch.BillingOrganizationCode.htm" />
     <HelpKINode Title="BillingOrganizationCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderCreateRequest.BillingOrganizationCode.htm" />
-    <HelpKINode Title="BillingOrganizationCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.BillingOrganizationCode.htm" />
   </HelpKINode>
   <HelpKINode Title="BillingStatusCode property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionSearch.BillingStatusCode.htm" />
   <HelpKINode Title="BillingStatusDescription property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionSearch.BillingStatusDescription.htm" />
@@ -349,19 +349,19 @@
     <HelpKINode Title="PaymentMethods Enumeration" Url="html/T-CDSGlobal.WebOrderLibrary.WebOrders.Enums.PaymentMethods.htm" />
   </HelpKINode>
   <HelpKINode Title="BillMe field">
-    <HelpKINode Title="BillMe Field" Url="html/F-CDSGlobal.WebOrderLibrary.WebOrders.Enums.PaymentMethods.BillMe.htm" />
     <HelpKINode Title="BillMe Field" Url="html/F-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderPayment.OrderPaymentMethod.PaymentTypes.BillMe.htm" />
+    <HelpKINode Title="BillMe Field" Url="html/F-CDSGlobal.WebOrderLibrary.WebOrders.Enums.PaymentMethods.BillMe.htm" />
   </HelpKINode>
   <HelpKINode Title="BillMe property">
+    <HelpKINode Title="BillMe Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionItem.BillMe.htm" />
     <HelpKINode Title="BillMe Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.ItemChoice.BillMe.htm" />
     <HelpKINode Title="BillMe Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionChoice.BillMe.htm" />
-    <HelpKINode Title="BillMe Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionItem.BillMe.htm" />
   </HelpKINode>
   <HelpKINode Title="BillTo property">
-    <HelpKINode Title="BillTo Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderCreateRequest.BillTo.htm" />
     <HelpKINode Title="BillTo Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionSearch.BillTo.htm" />
-    <HelpKINode Title="BillTo Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.BillTo.htm" />
     <HelpKINode Title="BillTo Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.BillTo.htm" />
+    <HelpKINode Title="BillTo Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.BillTo.htm" />
+    <HelpKINode Title="BillTo Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderCreateRequest.BillTo.htm" />
   </HelpKINode>
   <HelpKINode Title="BirthDate property">
     <HelpKINode Title="BirthDate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Customer.BirthDate.htm" />
@@ -373,9 +373,9 @@
   <HelpKINode Title="Bool enumeration member" Url="html/T-CDSGlobal.WebOrderLibrary.Enums.CDSDataTypes.htm" />
   <HelpKINode Title="Bool field" Url="html/F-CDSGlobal.WebOrderLibrary.Enums.CDSDataTypes.Bool.htm" />
   <HelpKINode Title="BusinessIndustryCode property">
-    <HelpKINode Title="BusinessIndustryCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionSearch.BusinessIndustryCode.htm" />
-    <HelpKINode Title="BusinessIndustryCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderSubscription.BusinessIndustryCode.htm" />
     <HelpKINode Title="BusinessIndustryCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderLineSubscription.BusinessIndustryCode.htm" />
+    <HelpKINode Title="BusinessIndustryCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderSubscription.BusinessIndustryCode.htm" />
+    <HelpKINode Title="BusinessIndustryCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionSearch.BusinessIndustryCode.htm" />
   </HelpKINode>
   <HelpKINode Title="BusinessRules enumeration member" Url="html/T-CDSGlobal.WebOrderLibrary.Enums.FailureTypes.htm" />
   <HelpKINode Title="BusinessRules field" Url="html/F-CDSGlobal.WebOrderLibrary.Enums.FailureTypes.BusinessRules.htm" />
@@ -395,8 +395,8 @@
     <HelpKINode Title="cavv Property " Url="html/P-CDSGlobal.WebOrderLibrary.Responses.Interfaces.ICyberSourceData.cavv.htm" />
   </HelpKINode>
   <HelpKINode Title="cavvAlgorithm property">
-    <HelpKINode Title="cavvAlgorithm Property " Url="html/P-CDSGlobal.WebOrderLibrary.Responses.ClientResponse.cavvAlgorithm.htm" />
     <HelpKINode Title="cavvAlgorithm Property " Url="html/P-CDSGlobal.WebOrderLibrary.Responses.Interfaces.ICyberSourceData.cavvAlgorithm.htm" />
+    <HelpKINode Title="cavvAlgorithm Property " Url="html/P-CDSGlobal.WebOrderLibrary.Responses.ClientResponse.cavvAlgorithm.htm" />
   </HelpKINode>
   <HelpKINode Title="CC enumeration member" Url="html/T-CDSGlobal.WebOrderLibrary.WebOrders.Enums.PaymentMethods.htm" />
   <HelpKINode Title="CC field" Url="html/F-CDSGlobal.WebOrderLibrary.WebOrders.Enums.PaymentMethods.CC.htm" />
@@ -1026,23 +1026,23 @@
   <HelpKINode Title="CertificateNumber property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderAppliedGiftCertificate.CertificateNumber.htm" />
   <HelpKINode Title="ChangeSource property">
     <HelpKINode Title="ChangeSource Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Customer.ChangeSource.htm" />
-    <HelpKINode Title="ChangeSource Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CustomerUpdateRequest.ChangeSource.htm" />
     <HelpKINode Title="ChangeSource Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Address.ChangeSource.htm" />
+    <HelpKINode Title="ChangeSource Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CustomerUpdateRequest.ChangeSource.htm" />
   </HelpKINode>
   <HelpKINode Title="ChargeCategoryCode property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderLineSubscription.ChargeCategoryCode.htm" />
-  <HelpKINode Title="CHECK enumeration member" Url="html/T-CDSGlobal.WebOrderLibrary.WebOrders.Enums.PaymentMethods.htm" />
   <HelpKINode Title="Check enumeration member" Url="html/T-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderPayment.OrderPaymentMethod.PaymentTypes.htm" />
-  <HelpKINode Title="Check field" Url="html/F-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderPayment.OrderPaymentMethod.PaymentTypes.Check.htm" />
+  <HelpKINode Title="CHECK enumeration member" Url="html/T-CDSGlobal.WebOrderLibrary.WebOrders.Enums.PaymentMethods.htm" />
   <HelpKINode Title="CHECK field" Url="html/F-CDSGlobal.WebOrderLibrary.WebOrders.Enums.PaymentMethods.CHECK.htm" />
+  <HelpKINode Title="Check field" Url="html/F-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderPayment.OrderPaymentMethod.PaymentTypes.Check.htm" />
   <HelpKINode Title="CheckCode property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CommitCheque.CheckCode.htm" />
   <HelpKINode Title="CheckNumber property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CommitCheque.CheckNumber.htm" />
   <HelpKINode Title="CheckoutConnectionString property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PublisherAccess.CheckoutConnectionString.htm" />
   <HelpKINode Title="CheckoutConnectionStringEncrypted property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PublisherAccess.CheckoutConnectionStringEncrypted.htm" />
   <HelpKINode Title="Checks property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderCommit.Checks.htm" />
   <HelpKINode Title="ChequesValid property">
-    <HelpKINode Title="ChequesValid Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionItem.ChequesValid.htm" />
     <HelpKINode Title="ChequesValid Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionChoiceView.ChequesValid.htm" />
     <HelpKINode Title="ChequesValid Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.ItemChoice.ChequesValid.htm" />
+    <HelpKINode Title="ChequesValid Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionItem.ChequesValid.htm" />
     <HelpKINode Title="ChequesValid Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionChoice.ChequesValid.htm" />
   </HelpKINode>
   <HelpKINode Title="ChoiceDescription property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionItem.ChoiceDescription.htm" />
@@ -1086,12 +1086,12 @@
   <HelpKINode Title="ClientResponse.veresEnrolled property" Url="html/P-CDSGlobal.WebOrderLibrary.Responses.ClientResponse.veresEnrolled.htm" />
   <HelpKINode Title="ClientResponse.xid property" Url="html/P-CDSGlobal.WebOrderLibrary.Responses.ClientResponse.xid.htm" />
   <HelpKINode Title="Code property">
-    <HelpKINode Title="Code Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionStatus.Code.htm" />
-    <HelpKINode Title="Code Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.VoucherCode.Code.htm" />
     <HelpKINode Title="Code Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderLineSubscription.SubscriptionPublication.Code.htm" />
-    <HelpKINode Title="Code Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionPublication.Code.htm" />
     <HelpKINode Title="Code Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderPayment.OrderPaymentMethod.Code.htm" />
+    <HelpKINode Title="Code Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionPublication.Code.htm" />
     <HelpKINode Title="Code Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionRenewalPolicy.Code.htm" />
+    <HelpKINode Title="Code Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.VoucherCode.Code.htm" />
+    <HelpKINode Title="Code Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionStatus.Code.htm" />
   </HelpKINode>
   <HelpKINode Title="ColIndex property" Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.ErrorsResponse.ColIndex.htm" />
   <HelpKINode Title="collectionIndicator property">
@@ -1124,8 +1124,8 @@
     <HelpKINode Title="CombinedStatusCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.OrderStatus.CombinedStatusCode.htm" />
   </HelpKINode>
   <HelpKINode Title="commerceIndicator property">
-    <HelpKINode Title="commerceIndicator Property " Url="html/P-CDSGlobal.WebOrderLibrary.Responses.ClientResponse.commerceIndicator.htm" />
     <HelpKINode Title="commerceIndicator Property " Url="html/P-CDSGlobal.WebOrderLibrary.Responses.Interfaces.ICyberSourceData.commerceIndicator.htm" />
+    <HelpKINode Title="commerceIndicator Property " Url="html/P-CDSGlobal.WebOrderLibrary.Responses.ClientResponse.commerceIndicator.htm" />
   </HelpKINode>
   <HelpKINode Title="CommitBankAccount class">
     <HelpKINode Title="CommitBankAccount Class" Url="html/T-CDSGlobal.WebOrderLibrary.MarsOrders.CommitBankAccount.htm" />
@@ -1185,8 +1185,8 @@
   <HelpKINode Title="ConferenceLocationCode property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderConference.ConferenceLocationCode.htm" />
   <HelpKINode Title="ConferenceName property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderConference.ConferenceName.htm" />
   <HelpKINode Title="ConferenceStatusCode property">
-    <HelpKINode Title="ConferenceStatusCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderStatus.ConferenceStatusCode.htm" />
     <HelpKINode Title="ConferenceStatusCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.OrderStatus.ConferenceStatusCode.htm" />
+    <HelpKINode Title="ConferenceStatusCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderStatus.ConferenceStatusCode.htm" />
   </HelpKINode>
   <HelpKINode Title="Confirming enumeration member" Url="html/T-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderSubscription.AlternateDeliveryIndicators.htm" />
   <HelpKINode Title="Confirming field" Url="html/F-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderSubscription.AlternateDeliveryIndicators.Confirming.htm" />
@@ -1200,17 +1200,17 @@
   <HelpKINode Title="ContinuousCreditCardTokenised enumeration member" Url="html/T-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderPayment.OrderPaymentMethod.PaymentTypes.htm" />
   <HelpKINode Title="ContinuousCreditCardTokenised field" Url="html/F-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderPayment.OrderPaymentMethod.PaymentTypes.ContinuousCreditCardTokenised.htm" />
   <HelpKINode Title="ControlGroupDate property">
-    <HelpKINode Title="ControlGroupDate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionSearch.ControlGroupDate.htm" />
     <HelpKINode Title="ControlGroupDate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CommitCheque.ControlGroupDate.htm" />
-    <HelpKINode Title="ControlGroupDate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionOriginalOrder.ControlGroupDate.htm" />
     <HelpKINode Title="ControlGroupDate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.ControlGroupDate.htm" />
+    <HelpKINode Title="ControlGroupDate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionSearch.ControlGroupDate.htm" />
     <HelpKINode Title="ControlGroupDate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.ControlGroupDate.htm" />
+    <HelpKINode Title="ControlGroupDate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionOriginalOrder.ControlGroupDate.htm" />
   </HelpKINode>
   <HelpKINode Title="ControlGroupId property">
+    <HelpKINode Title="ControlGroupId Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.ControlGroupId.htm" />
     <HelpKINode Title="ControlGroupId Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionOriginalOrder.ControlGroupId.htm" />
     <HelpKINode Title="ControlGroupId Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.ControlGroupId.htm" />
     <HelpKINode Title="ControlGroupId Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CommitCheque.ControlGroupId.htm" />
-    <HelpKINode Title="ControlGroupId Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.ControlGroupId.htm" />
   </HelpKINode>
   <HelpKINode Title="controlId property" Url="html/P-CDSGlobal.WebOrderLibrary.Responses.ClientResponse.controlId.htm" />
   <HelpKINode Title="Copies property">
@@ -1239,10 +1239,10 @@
   <HelpKINode Title="Country.Zone property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Country.Zone.htm" />
   <HelpKINode Title="CountryCode property">
     <HelpKINode Title="CountryCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PostalAddress.CountryCode.htm" />
-    <HelpKINode Title="CountryCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.BankAccount.CountryCode.htm" />
     <HelpKINode Title="CountryCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Country.CountryCode.htm" />
-    <HelpKINode Title="CountryCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.GeoState.CountryCode.htm" />
     <HelpKINode Title="CountryCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionShipTo.CountryCode.htm" />
+    <HelpKINode Title="CountryCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.BankAccount.CountryCode.htm" />
+    <HelpKINode Title="CountryCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.GeoState.CountryCode.htm" />
   </HelpKINode>
   <HelpKINode Title="CountryName property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Currency.CountryName.htm" />
   <HelpKINode Title="CreatedBillingCustomer property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.MarsOrderContainer.CreatedBillingCustomer.htm" />
@@ -1630,10 +1630,10 @@
   <HelpKINode Title="CreditCardCreateRequest.CustomerNumber property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreditCardCreateRequest.CustomerNumber.htm" />
   <HelpKINode Title="CreditCards property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderCommit.CreditCards.htm" />
   <HelpKINode Title="CreditCardsValid property">
-    <HelpKINode Title="CreditCardsValid Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.ItemChoice.CreditCardsValid.htm" />
+    <HelpKINode Title="CreditCardsValid Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionChoiceView.CreditCardsValid.htm" />
     <HelpKINode Title="CreditCardsValid Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionChoice.CreditCardsValid.htm" />
     <HelpKINode Title="CreditCardsValid Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionItem.CreditCardsValid.htm" />
-    <HelpKINode Title="CreditCardsValid Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionChoiceView.CreditCardsValid.htm" />
+    <HelpKINode Title="CreditCardsValid Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.ItemChoice.CreditCardsValid.htm" />
   </HelpKINode>
   <HelpKINode Title="CreditCardTokenised enumeration member" Url="html/T-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderPayment.OrderPaymentMethod.PaymentTypes.htm" />
   <HelpKINode Title="CreditCardTokenised field" Url="html/F-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderPayment.OrderPaymentMethod.PaymentTypes.CreditCardTokenised.htm" />
@@ -1648,8 +1648,8 @@
   <HelpKINode Title="CreditsToApply property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.AccountCredit.CreditsToApply.htm" />
   <HelpKINode Title="CreditType property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.RelatedCredit.CreditType.htm" />
   <HelpKINode Title="CreditVoucher property">
-    <HelpKINode Title="CreditVoucher Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Credit.CreditVoucher.htm" />
     <HelpKINode Title="CreditVoucher Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.RelatedCredit.CreditVoucher.htm" />
+    <HelpKINode Title="CreditVoucher Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Credit.CreditVoucher.htm" />
   </HelpKINode>
   <HelpKINode Title="CreditVoucherNumber property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderAppliedGiftCertificate.CreditVoucherNumber.htm" />
   <HelpKINode Title="Currency class">
@@ -1661,26 +1661,26 @@
     <HelpKINode Title="properties" Url="html/Properties.T-CDSGlobal.WebOrderLibrary.MarsOrders.Currency.htm" />
   </HelpKINode>
   <HelpKINode Title="Currency property">
-    <HelpKINode Title="Currency Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.WebOrderItem.Currency.htm" />
     <HelpKINode Title="Currency Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionChoiceView.Currency.htm" />
+    <HelpKINode Title="Currency Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.WebOrderItem.Currency.htm" />
   </HelpKINode>
   <HelpKINode Title="Currency.CountryName property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Currency.CountryName.htm" />
   <HelpKINode Title="Currency.CurrencyCode property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Currency.CurrencyCode.htm" />
   <HelpKINode Title="Currency.Description property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Currency.Description.htm" />
   <HelpKINode Title="Currency.Symbol property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Currency.Symbol.htm" />
   <HelpKINode Title="CurrencyCode property">
-    <HelpKINode Title="CurrencyCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Currency.CurrencyCode.htm" />
-    <HelpKINode Title="CurrencyCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PaymentCode.CurrencyCode.htm" />
-    <HelpKINode Title="CurrencyCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionChoice.CurrencyCode.htm" />
-    <HelpKINode Title="CurrencyCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Country.CurrencyCode.htm" />
-    <HelpKINode Title="CurrencyCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreditCardCreateRequest.CurrencyCode.htm" />
-    <HelpKINode Title="CurrencyCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CurrencyCode.htm" />
-    <HelpKINode Title="CurrencyCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderCreateRequest.CurrencyCode.htm" />
-    <HelpKINode Title="CurrencyCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.CurrencyCode.htm" />
     <HelpKINode Title="CurrencyCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionItem.CurrencyCode.htm" />
-    <HelpKINode Title="CurrencyCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.CurrencyCode.htm" />
-    <HelpKINode Title="CurrencyCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderAppliedGiftCertificate.CurrencyCode.htm" />
     <HelpKINode Title="CurrencyCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderInstallmentBilling.OrderInstallmentPlan.CurrencyCode.htm" />
+    <HelpKINode Title="CurrencyCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderAppliedGiftCertificate.CurrencyCode.htm" />
+    <HelpKINode Title="CurrencyCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderCreateRequest.CurrencyCode.htm" />
+    <HelpKINode Title="CurrencyCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreditCardCreateRequest.CurrencyCode.htm" />
+    <HelpKINode Title="CurrencyCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PaymentCode.CurrencyCode.htm" />
+    <HelpKINode Title="CurrencyCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Country.CurrencyCode.htm" />
+    <HelpKINode Title="CurrencyCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionChoice.CurrencyCode.htm" />
+    <HelpKINode Title="CurrencyCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CurrencyCode.htm" />
+    <HelpKINode Title="CurrencyCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Currency.CurrencyCode.htm" />
+    <HelpKINode Title="CurrencyCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.CurrencyCode.htm" />
+    <HelpKINode Title="CurrencyCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.CurrencyCode.htm" />
   </HelpKINode>
   <HelpKINode Title="Customer class">
     <HelpKINode Title="Customer Class" Url="html/T-CDSGlobal.WebOrderLibrary.MarsOrders.Customer.htm" />
@@ -1720,26 +1720,26 @@
   <HelpKINode Title="CustomerDataProtection property" Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.WebCustomer.CustomerDataProtection.htm" />
   <HelpKINode Title="CustomerName property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Subscription.CustomerName.htm" />
   <HelpKINode Title="CustomerNumber property">
-    <HelpKINode Title="CustomerNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionShipTo.CustomerNumber.htm" />
-    <HelpKINode Title="CustomerNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PendingOrder.CustomerNumber.htm" />
-    <HelpKINode Title="CustomerNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreditCardCreateRequest.CustomerNumber.htm" />
+    <HelpKINode Title="CustomerNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedCustomer.CustomerNumber.htm" />
+    <HelpKINode Title="CustomerNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLineAccess.OrderLineParticipant.CustomerNumber.htm" />
+    <HelpKINode Title="CustomerNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.RenewalCustomer.CustomerNumber.htm" />
+    <HelpKINode Title="CustomerNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CustomerSearch.CustomerNumber.htm" />
+    <HelpKINode Title="CustomerNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.RenewalEffort.CustomerNumber.htm" />
     <HelpKINode Title="CustomerNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CommitCheque.CustomerNumber.htm" />
     <HelpKINode Title="CustomerNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.BankAccountCreateRequest.CustomerNumber.htm" />
-    <HelpKINode Title="CustomerNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionBillTo.CustomerNumber.htm" />
-    <HelpKINode Title="CustomerNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderAccess.AccessParticipant.CustomerNumber.htm" />
-    <HelpKINode Title="CustomerNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.RenewalEffort.CustomerNumber.htm" />
-    <HelpKINode Title="CustomerNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.RenewalCustomer.CustomerNumber.htm" />
     <HelpKINode Title="CustomerNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebApiModels.Customer.SoloPasswordUpdate.CustomerNumber.htm" />
-    <HelpKINode Title="CustomerNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Subscription.CustomerNumber.htm" />
-    <HelpKINode Title="CustomerNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLineAccess.OrderLineParticipant.CustomerNumber.htm" />
-    <HelpKINode Title="CustomerNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.PendingOrder.CustomerNumber.htm" />
-    <HelpKINode Title="CustomerNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderCustomer.CustomerNumber.htm" />
-    <HelpKINode Title="CustomerNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedCustomer.CustomerNumber.htm" />
-    <HelpKINode Title="CustomerNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CustomerAddress.CustomerNumber.htm" />
-    <HelpKINode Title="CustomerNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.OrderResponse.CustomerNumber.htm" />
-    <HelpKINode Title="CustomerNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CustomerSearch.CustomerNumber.htm" />
-    <HelpKINode Title="CustomerNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderCustomer.CustomerNumber.htm" />
     <HelpKINode Title="CustomerNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.RelatedCredit.CustomerNumber.htm" />
+    <HelpKINode Title="CustomerNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionBillTo.CustomerNumber.htm" />
+    <HelpKINode Title="CustomerNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Subscription.CustomerNumber.htm" />
+    <HelpKINode Title="CustomerNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PendingOrder.CustomerNumber.htm" />
+    <HelpKINode Title="CustomerNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderAccess.AccessParticipant.CustomerNumber.htm" />
+    <HelpKINode Title="CustomerNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.OrderResponse.CustomerNumber.htm" />
+    <HelpKINode Title="CustomerNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderCustomer.CustomerNumber.htm" />
+    <HelpKINode Title="CustomerNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.PendingOrder.CustomerNumber.htm" />
+    <HelpKINode Title="CustomerNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CustomerAddress.CustomerNumber.htm" />
+    <HelpKINode Title="CustomerNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionShipTo.CustomerNumber.htm" />
+    <HelpKINode Title="CustomerNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderCustomer.CustomerNumber.htm" />
+    <HelpKINode Title="CustomerNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreditCardCreateRequest.CustomerNumber.htm" />
   </HelpKINode>
   <HelpKINode Title="CustomerSearch class">
     <HelpKINode Title="CustomerSearch Class" Url="html/T-CDSGlobal.WebOrderLibrary.MarsOrders.CustomerSearch.htm" />
@@ -1828,19 +1828,19 @@
   <HelpKINode Title="DefaultPromotionCode property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Publisher.DefaultPromotionCode.htm" />
   <HelpKINode Title="DefaultQuestionnaireCode property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Publisher.DefaultQuestionnaireCode.htm" />
   <HelpKINode Title="DefaultStartIssue property">
-    <HelpKINode Title="DefaultStartIssue Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Publication.DefaultStartIssue.htm" />
     <HelpKINode Title="DefaultStartIssue Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionChoice.DefaultStartIssue.htm" />
+    <HelpKINode Title="DefaultStartIssue Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Publication.DefaultStartIssue.htm" />
   </HelpKINode>
   <HelpKINode Title="DefaultValueIfEmpty property" Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.ColumnDetailsResponse.DefaultValueIfEmpty.htm" />
   <HelpKINode Title="DeferDate property">
     <HelpKINode Title="DeferDate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderGiftMessage.DeferDate.htm" />
-    <HelpKINode Title="DeferDate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderGiftMessage.DeferDate.htm" />
     <HelpKINode Title="DeferDate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.DeferDate.htm" />
+    <HelpKINode Title="DeferDate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderGiftMessage.DeferDate.htm" />
   </HelpKINode>
   <HelpKINode Title="DeliveryCode property">
     <HelpKINode Title="DeliveryCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionSearch.DeliveryCode.htm" />
-    <HelpKINode Title="DeliveryCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderSubscription.DeliveryCode.htm" />
     <HelpKINode Title="DeliveryCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderLineSubscription.DeliveryCode.htm" />
+    <HelpKINode Title="DeliveryCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderSubscription.DeliveryCode.htm" />
   </HelpKINode>
   <HelpKINode Title="DeliveryCost property" Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.WebOrderItem.DeliveryCost.htm" />
   <HelpKINode Title="DeliveryCustomer property" Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.WebOrderItem.DeliveryCustomer.htm" />
@@ -1855,26 +1855,26 @@
   <HelpKINode Title="Demographic.FieldName property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Demographic.FieldName.htm" />
   <HelpKINode Title="Demographic.Value property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Demographic.Value.htm" />
   <HelpKINode Title="Demographics property">
-    <HelpKINode Title="Demographics Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionSearch.Demographics.htm" />
+    <HelpKINode Title="Demographics Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.Demographics.htm" />
+    <HelpKINode Title="Demographics Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.MetaDate.Demographics.htm" />
+    <HelpKINode Title="Demographics Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.Demographics.htm" />
+    <HelpKINode Title="Demographics Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.Demographics.htm" />
+    <HelpKINode Title="Demographics Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CustomerUpdateRequest.Demographics.htm" />
     <HelpKINode Title="Demographics Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Customer.Demographics.htm" />
     <HelpKINode Title="Demographics Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderCreateRequest.Demographics.htm" />
-    <HelpKINode Title="Demographics Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CustomerUpdateRequest.Demographics.htm" />
-    <HelpKINode Title="Demographics Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.MetaDate.Demographics.htm" />
-    <HelpKINode Title="Demographics Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.Demographics.htm" />
-    <HelpKINode Title="Demographics Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.Demographics.htm" />
-    <HelpKINode Title="Demographics Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.Demographics.htm" />
+    <HelpKINode Title="Demographics Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionSearch.Demographics.htm" />
   </HelpKINode>
   <HelpKINode Title="Department property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Address.Department.htm" />
   <HelpKINode Title="Description property">
-    <HelpKINode Title="Description Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Questionnaire.Description.htm" />
     <HelpKINode Title="Description Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PaymentCode.Description.htm" />
-    <HelpKINode Title="Description Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.RuleResponse.Description.htm" />
-    <HelpKINode Title="Description Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Currency.Description.htm" />
-    <HelpKINode Title="Description Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Issue.Description.htm" />
     <HelpKINode Title="Description Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionChoiceView.Description.htm" />
-    <HelpKINode Title="Description Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.VoucherCode.Description.htm" />
+    <HelpKINode Title="Description Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Questionnaire.Description.htm" />
+    <HelpKINode Title="Description Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Currency.Description.htm" />
     <HelpKINode Title="Description Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Question.Description.htm" />
     <HelpKINode Title="Description Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderPayment.OrderPaymentMethod.Description.htm" />
+    <HelpKINode Title="Description Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.RuleResponse.Description.htm" />
+    <HelpKINode Title="Description Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Issue.Description.htm" />
+    <HelpKINode Title="Description Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.VoucherCode.Description.htm" />
   </HelpKINode>
   <HelpKINode Title="Dev enumeration member" Url="html/T-CDSGlobal.WebOrderLibrary.Enums.CdsEnviroment.htm" />
   <HelpKINode Title="Dev field" Url="html/F-CDSGlobal.WebOrderLibrary.Enums.CdsEnviroment.Dev.htm" />
@@ -1904,17 +1904,17 @@
     <HelpKINode Title="DirectDebitValid Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.ItemChoice.DirectDebitValid.htm" />
   </HelpKINode>
   <HelpKINode Title="Discount property">
-    <HelpKINode Title="Discount Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.Discount.htm" />
     <HelpKINode Title="Discount Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.WebOrderItem.Discount.htm" />
+    <HelpKINode Title="Discount Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.Discount.htm" />
   </HelpKINode>
   <HelpKINode Title="DiscountAmount property" Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.OrderLevelDiscounts.DiscountAmount.htm" />
   <HelpKINode Title="DiscountAndQuantityAlreadyApplied property" Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.WebOrderItem.DiscountAndQuantityAlreadyApplied.htm" />
   <HelpKINode Title="DiscountCode property" Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.OrderLevelDiscounts.DiscountCode.htm" />
   <HelpKINode Title="DiscountOrdered property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.DiscountOrdered.htm" />
   <HelpKINode Title="DiscountPercent property">
-    <HelpKINode Title="DiscountPercent Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.OrderAmounts.DiscountPercent.htm" />
-    <HelpKINode Title="DiscountPercent Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderAmounts.DiscountPercent.htm" />
     <HelpKINode Title="DiscountPercent Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderCreateRequest.DiscountPercent.htm" />
+    <HelpKINode Title="DiscountPercent Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderAmounts.DiscountPercent.htm" />
+    <HelpKINode Title="DiscountPercent Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.OrderAmounts.DiscountPercent.htm" />
   </HelpKINode>
   <HelpKINode Title="DisplayText property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.MetaDate.DisplayText.htm" />
   <HelpKINode Title="DocketNumber property">
@@ -1930,8 +1930,8 @@
   <HelpKINode Title="DontRequirePreauth field" Url="html/F-CDSGlobal.WebOrderLibrary.WebOrders.Enums.UserFlags.DontRequirePreauth.htm" />
   <HelpKINode Title="DownPayment property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderInstallmentBilling.DownPayment.htm" />
   <HelpKINode Title="DueDate property">
-    <HelpKINode Title="DueDate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderInstallmentBilling.OrderSchedule.DueDate.htm" />
     <HelpKINode Title="DueDate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.RelatedDebit.DueDate.htm" />
+    <HelpKINode Title="DueDate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderInstallmentBilling.OrderSchedule.DueDate.htm" />
   </HelpKINode>
   <HelpKINode Title="eci property">
     <HelpKINode Title="eci Property " Url="html/P-CDSGlobal.WebOrderLibrary.Responses.Interfaces.ICyberSourceData.eci.htm" />
@@ -1948,15 +1948,15 @@
   </HelpKINode>
   <HelpKINode Title="EffortNumber property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.RenewalEffort.EffortNumber.htm" />
   <HelpKINode Title="ElectronicPaymentId property">
-    <HelpKINode Title="ElectronicPaymentId Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionUpdateRequest.SubscriptionAutoChargeCard.ElectronicPaymentId.htm" />
     <HelpKINode Title="ElectronicPaymentId Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionUpdateRequest.SubscriptionAutoChargeDirectDebitAccount.ElectronicPaymentId.htm" />
+    <HelpKINode Title="ElectronicPaymentId Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionUpdateRequest.SubscriptionAutoChargeCard.ElectronicPaymentId.htm" />
     <HelpKINode Title="ElectronicPaymentId Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedPaymentMethod.ElectronicPaymentId.htm" />
   </HelpKINode>
   <HelpKINode Title="Email property">
+    <HelpKINode Title="Email Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderAccess.AccessParticipant.Email.htm" />
+    <HelpKINode Title="Email Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Address.Email.htm" />
     <HelpKINode Title="Email Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLineAccess.OrderLineParticipant.Email.htm" />
     <HelpKINode Title="Email Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedCustomer.Email.htm" />
-    <HelpKINode Title="Email Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Address.Email.htm" />
-    <HelpKINode Title="Email Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderAccess.AccessParticipant.Email.htm" />
   </HelpKINode>
   <HelpKINode Title="EmailId property">
     <HelpKINode Title="EmailId Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderSubscription.EmailId.htm" />
@@ -1984,9 +1984,9 @@
   </HelpKINode>
   <HelpKINode Title="errorMessage property" Url="html/P-CDSGlobal.WebOrderLibrary.Responses.ClientResponse.errorMessage.htm" />
   <HelpKINode Title="Errors property">
-    <HelpKINode Title="Errors Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.PendingOrder.Errors.htm" />
-    <HelpKINode Title="Errors Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.MarsOrderContainer.Errors.htm" />
     <HelpKINode Title="Errors Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.OrderResponse.Errors.htm" />
+    <HelpKINode Title="Errors Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.MarsOrderContainer.Errors.htm" />
+    <HelpKINode Title="Errors Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.PendingOrder.Errors.htm" />
   </HelpKINode>
   <HelpKINode Title="ErrorsResponse class">
     <HelpKINode Title="ErrorsResponse Class" Url="html/T-CDSGlobal.WebOrderLibrary.WebOrders.ErrorsResponse.htm" />
@@ -2006,19 +2006,19 @@
   <HelpKINode Title="ErrorsResponse.isValid property" Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.ErrorsResponse.isValid.htm" />
   <HelpKINode Title="ErrorsResponse.RowIndex property" Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.ErrorsResponse.RowIndex.htm" />
   <HelpKINode Title="ExpectedDeliveryDate property">
-    <HelpKINode Title="ExpectedDeliveryDate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Issue.ExpectedDeliveryDate.htm" />
     <HelpKINode Title="ExpectedDeliveryDate Property " Url="html/P-MarsCache.Contracts.DataTransferObjects.Unknown.IssueView.ExpectedDeliveryDate.htm" />
+    <HelpKINode Title="ExpectedDeliveryDate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Issue.ExpectedDeliveryDate.htm" />
   </HelpKINode>
   <HelpKINode Title="ExpectedPublicationDate property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.MetaDate.ExpectedPublicationDate.htm" />
   <HelpKINode Title="ExpirationDate property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderAppliedGiftCertificate.ExpirationDate.htm" />
   <HelpKINode Title="ExpireMonth property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreditCard.ExpireMonth.htm" />
   <HelpKINode Title="ExpireYear property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreditCard.ExpireYear.htm" />
   <HelpKINode Title="ExpiryDate property">
-    <HelpKINode Title="ExpiryDate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Promotion.ExpiryDate.htm" />
-    <HelpKINode Title="ExpiryDate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.VoucherCode.ExpiryDate.htm" />
-    <HelpKINode Title="ExpiryDate Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.RuleLookUps.ExpiryDate.htm" />
-    <HelpKINode Title="ExpiryDate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.ItemChoice.ExpiryDate.htm" />
     <HelpKINode Title="ExpiryDate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionChoice.ExpiryDate.htm" />
+    <HelpKINode Title="ExpiryDate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Promotion.ExpiryDate.htm" />
+    <HelpKINode Title="ExpiryDate Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.RuleLookUps.ExpiryDate.htm" />
+    <HelpKINode Title="ExpiryDate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.VoucherCode.ExpiryDate.htm" />
+    <HelpKINode Title="ExpiryDate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.ItemChoice.ExpiryDate.htm" />
   </HelpKINode>
   <HelpKINode Title="ExternalId property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SingleSignOn.ExternalId.htm" />
   <HelpKINode Title="FailedUpload enumeration member" Url="html/T-CDSGlobal.WebOrderLibrary.WebOrders.Enums.ResponseMessage.htm" />
@@ -2068,9 +2068,9 @@
   <HelpKINode Title="GeoState.ZipStart property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.GeoState.ZipStart.htm" />
   <HelpKINode Title="GiftCertificateValue property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.MiscPayment.GiftCertificateValue.htm" />
   <HelpKINode Title="GiftMessage property">
-    <HelpKINode Title="GiftMessage Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.GiftMessage.htm" />
     <HelpKINode Title="GiftMessage Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderSubscription.GiftMessage.htm" />
     <HelpKINode Title="GiftMessage Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderLineSubscription.GiftMessage.htm" />
+    <HelpKINode Title="GiftMessage Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.GiftMessage.htm" />
   </HelpKINode>
   <HelpKINode Title="GiftMessageType property">
     <HelpKINode Title="GiftMessageType Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderGiftMessage.GiftMessageType.htm" />
@@ -2078,9 +2078,9 @@
   </HelpKINode>
   <HelpKINode Title="GraceFlag property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionSearch.GraceFlag.htm" />
   <HelpKINode Title="GratisReasonCode property">
-    <HelpKINode Title="GratisReasonCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderCreateRequest.GratisReasonCode.htm" />
     <HelpKINode Title="GratisReasonCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.GratisReasonCode.htm" />
     <HelpKINode Title="GratisReasonCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.GratisReasonCode.htm" />
+    <HelpKINode Title="GratisReasonCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderCreateRequest.GratisReasonCode.htm" />
   </HelpKINode>
   <HelpKINode Title="GreaterOrEqualThan enumeration member" Url="html/T-CDSGlobal.WebOrderLibrary.WebOrders.Enums.SearchType.htm" />
   <HelpKINode Title="GreaterOrEqualThan field" Url="html/F-CDSGlobal.WebOrderLibrary.WebOrders.Enums.SearchType.GreaterOrEqualThan.htm" />
@@ -2115,27 +2115,27 @@
   <HelpKINode Title="ICyberSourceData.sessionId property" Url="html/P-CDSGlobal.WebOrderLibrary.Responses.Interfaces.ICyberSourceData.sessionId.htm" />
   <HelpKINode Title="ICyberSourceData.veresEnrolled property" Url="html/P-CDSGlobal.WebOrderLibrary.Responses.Interfaces.ICyberSourceData.veresEnrolled.htm" />
   <HelpKINode Title="ICyberSourceData.xid property" Url="html/P-CDSGlobal.WebOrderLibrary.Responses.Interfaces.ICyberSourceData.xid.htm" />
-  <HelpKINode Title="id property">
-    <HelpKINode Title="id Property " Url="html/P-CDSGlobal.WebOrderLibrary.Responses.Interfaces.IResponse.id.htm" />
-    <HelpKINode Title="id Property " Url="html/P-CDSGlobal.WebOrderLibrary.Responses.ClientResponse.id.htm" />
-  </HelpKINode>
   <HelpKINode Title="Id property">
-    <HelpKINode Title="Id Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.ColumnDetailsResponse.Id.htm" />
-    <HelpKINode Title="Id Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.RuleLookUps.Id.htm" />
     <HelpKINode Title="Id Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.ErrorsResponse.Id.htm" />
+    <HelpKINode Title="Id Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.RuleLookUps.Id.htm" />
+    <HelpKINode Title="Id Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.ColumnDetailsResponse.Id.htm" />
+  </HelpKINode>
+  <HelpKINode Title="id property">
+    <HelpKINode Title="id Property " Url="html/P-CDSGlobal.WebOrderLibrary.Responses.ClientResponse.id.htm" />
+    <HelpKINode Title="id Property " Url="html/P-CDSGlobal.WebOrderLibrary.Responses.Interfaces.IResponse.id.htm" />
   </HelpKINode>
   <HelpKINode Title="ImportRowId property" Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.ErrorsResponse.ImportRowId.htm" />
   <HelpKINode Title="InfinityRecordId property" Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.OrderResponse.InfinityRecordId.htm" />
   <HelpKINode Title="InitialOrder property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.RelatedCredit.InitialOrder.htm" />
   <HelpKINode Title="InitialPayment property">
-    <HelpKINode Title="InitialPayment Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.OrderAmounts.InitialPayment.htm" />
     <HelpKINode Title="InitialPayment Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderAmounts.InitialPayment.htm" />
+    <HelpKINode Title="InitialPayment Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.OrderAmounts.InitialPayment.htm" />
   </HelpKINode>
   <HelpKINode Title="InstallmentBilling property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.InstallmentBilling.htm" />
   <HelpKINode Title="InstallmentBillingCode property">
-    <HelpKINode Title="InstallmentBillingCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.RelatedDebit.InstallmentBillingCode.htm" />
-    <HelpKINode Title="InstallmentBillingCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderCreateRequest.InstallmentBillingCode.htm" />
     <HelpKINode Title="InstallmentBillingCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderInstallmentBilling.OrderInstallmentPlan.InstallmentBillingCode.htm" />
+    <HelpKINode Title="InstallmentBillingCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderCreateRequest.InstallmentBillingCode.htm" />
+    <HelpKINode Title="InstallmentBillingCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.RelatedDebit.InstallmentBillingCode.htm" />
   </HelpKINode>
   <HelpKINode Title="InstallmentFee property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderInstallmentBilling.InstallmentFee.htm" />
   <HelpKINode Title="InstallmentPayments property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.RelatedDebit.InstallmentPayments.htm" />
@@ -2165,8 +2165,8 @@
   <HelpKINode Title="InvoiceableOrder enumeration member" Url="html/T-CDSGlobal.WebOrderLibrary.MarsOrders.Enums.OrderTypes.htm" />
   <HelpKINode Title="InvoiceableOrder field" Url="html/F-CDSGlobal.WebOrderLibrary.MarsOrders.Enums.OrderTypes.InvoiceableOrder.htm" />
   <HelpKINode Title="InvoiceDate property">
-    <HelpKINode Title="InvoiceDate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.InvoiceDate.htm" />
     <HelpKINode Title="InvoiceDate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.InvoiceDate.htm" />
+    <HelpKINode Title="InvoiceDate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.InvoiceDate.htm" />
     <HelpKINode Title="InvoiceDate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.RelatedDebit.InvoiceDate.htm" />
   </HelpKINode>
   <HelpKINode Title="InvoiceTerms property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.RelatedDebit.InvoiceTerms.htm" />
@@ -2183,8 +2183,8 @@
   <HelpKINode Title="Is3DSecureOverride property" Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.PaymentDetailsBase.Is3DSecureOverride.htm" />
   <HelpKINode Title="IsAccount property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Customer.IsAccount.htm" />
   <HelpKINode Title="IsActive property">
-    <HelpKINode Title="IsActive Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Promotion.IsActive.htm" />
     <HelpKINode Title="IsActive Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionStatus.IsActive.htm" />
+    <HelpKINode Title="IsActive Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Promotion.IsActive.htm" />
   </HelpKINode>
   <HelpKINode Title="IsAdministrator property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLineAccess.OrderLineParticipant.IsAdministrator.htm" />
   <HelpKINode Title="IsAssociationComponent property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.IsAssociationComponent.htm" />
@@ -2204,8 +2204,8 @@
   <HelpKINode Title="IsDebitPaid property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.RelatedDebit.IsDebitPaid.htm" />
   <HelpKINode Title="IsDefault property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Address.IsDefault.htm" />
   <HelpKINode Title="IsDropShipped property">
-    <HelpKINode Title="IsDropShipped Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderShippingInfo.IsDropShipped.htm" />
     <HelpKINode Title="IsDropShipped Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.OrderShippingInfo.IsDropShipped.htm" />
+    <HelpKINode Title="IsDropShipped Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderShippingInfo.IsDropShipped.htm" />
   </HelpKINode>
   <HelpKINode Title="IsEstimate property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderInstallmentBilling.IsEstimate.htm" />
   <HelpKINode Title="IsExcludedFromGracing property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionSearch.IsExcludedFromGracing.htm" />
@@ -2227,8 +2227,8 @@
   <HelpKINode Title="IsNullOrHasZeroElements&lt;T&gt; method" Url="html/M-CDSGlobal.WebOrderLibrary.Extenstions.ObjectExtensions.IsNullOrHasZeroElements--1.htm" />
   <HelpKINode Title="IsoCode property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Country.IsoCode.htm" />
   <HelpKINode Title="IsOnApproval property">
-    <HelpKINode Title="IsOnApproval Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.IsOnApproval.htm" />
     <HelpKINode Title="IsOnApproval Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.IsOnApproval.htm" />
+    <HelpKINode Title="IsOnApproval Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.IsOnApproval.htm" />
   </HelpKINode>
   <HelpKINode Title="IsoNumber property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Country.IsoNumber.htm" />
   <HelpKINode Title="IsPackageComponent property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.IsPackageComponent.htm" />
@@ -2241,24 +2241,24 @@
     <HelpKINode Title="IsPhoneOrder Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.IsPhoneOrder.htm" />
   </HelpKINode>
   <HelpKINode Title="IsPostShipped property">
-    <HelpKINode Title="IsPostShipped Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderShippingInfo.IsPostShipped.htm" />
     <HelpKINode Title="IsPostShipped Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.OrderShippingInfo.IsPostShipped.htm" />
+    <HelpKINode Title="IsPostShipped Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderShippingInfo.IsPostShipped.htm" />
   </HelpKINode>
   <HelpKINode Title="IsPremium property">
     <HelpKINode Title="IsPremium Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.IsPremium.htm" />
     <HelpKINode Title="IsPremium Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionSearch.IsPremium.htm" />
   </HelpKINode>
   <HelpKINode Title="IsPremiumFill property">
-    <HelpKINode Title="IsPremiumFill Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.IsPremiumFill.htm" />
     <HelpKINode Title="IsPremiumFill Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.IsPremiumFill.htm" />
+    <HelpKINode Title="IsPremiumFill Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.IsPremiumFill.htm" />
   </HelpKINode>
   <HelpKINode Title="IsProducion property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.MarsOrderContainer.IsProducion.htm" />
   <HelpKINode Title="IsProduction property" Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.WebOrder.IsProduction.htm" />
   <HelpKINode Title="IsProforma property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionSearch.IsProforma.htm" />
   <HelpKINode Title="IsQualified property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionSearch.IsQualified.htm" />
   <HelpKINode Title="IsReturn property">
-    <HelpKINode Title="IsReturn Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderShippingInfo.IsReturn.htm" />
     <HelpKINode Title="IsReturn Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.OrderShippingInfo.IsReturn.htm" />
+    <HelpKINode Title="IsReturn Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderShippingInfo.IsReturn.htm" />
   </HelpKINode>
   <HelpKINode Title="IsRushShip property">
     <HelpKINode Title="IsRushShip Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderShippingInfo.IsRushShip.htm" />
@@ -2281,9 +2281,9 @@
   <HelpKINode Title="Issue.LastUpdatedDate property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Issue.LastUpdatedDate.htm" />
   <HelpKINode Title="Issue.PublicationCode property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Issue.PublicationCode.htm" />
   <HelpKINode Title="IssueDate property">
-    <HelpKINode Title="IssueDate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.MetaDate.IssueDate.htm" />
     <HelpKINode Title="IssueDate Property " Url="html/P-MarsCache.Contracts.DataTransferObjects.Unknown.IssueView.IssueDate.htm" />
     <HelpKINode Title="IssueDate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Issue.IssueDate.htm" />
+    <HelpKINode Title="IssueDate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.MetaDate.IssueDate.htm" />
   </HelpKINode>
   <HelpKINode Title="IssueGroupCode property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderSubscription.IssueGroupCode.htm" />
   <HelpKINode Title="IssueNumber property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreditCard.IssueNumber.htm" />
@@ -2329,22 +2329,22 @@
   <HelpKINode Title="ItemChoice.LastUpdatedDate property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.ItemChoice.LastUpdatedDate.htm" />
   <HelpKINode Title="ItemChoice.PaymentCodeId property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.ItemChoice.PaymentCodeId.htm" />
   <HelpKINode Title="ItemChoiceCode property">
-    <HelpKINode Title="ItemChoiceCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionItem.ItemChoiceCode.htm" />
     <HelpKINode Title="ItemChoiceCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.ItemZoneRate.ItemChoiceCode.htm" />
     <HelpKINode Title="ItemChoiceCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.ItemChoice.ItemChoiceCode.htm" />
+    <HelpKINode Title="ItemChoiceCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionItem.ItemChoiceCode.htm" />
   </HelpKINode>
   <HelpKINode Title="ItemChoiceDescription property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.ItemChoice.ItemChoiceDescription.htm" />
   <HelpKINode Title="ItemChoiceStatus property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.ItemChoice.ItemChoiceStatus.htm" />
   <HelpKINode Title="ItemCode property">
-    <HelpKINode Title="ItemCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionChoiceView.ItemCode.htm" />
-    <HelpKINode Title="ItemCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionItem.ItemCode.htm" />
-    <HelpKINode Title="ItemCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.ItemZoneRate.ItemCode.htm" />
-    <HelpKINode Title="ItemCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.VoucherItem.ItemCode.htm" />
-    <HelpKINode Title="ItemCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionItemZoneRate.ItemCode.htm" />
-    <HelpKINode Title="ItemCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.ItemChoice.ItemCode.htm" />
     <HelpKINode Title="ItemCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionChoice.ItemCode.htm" />
-    <HelpKINode Title="ItemCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PendingOrder.ItemCode.htm" />
+    <HelpKINode Title="ItemCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionItem.ItemCode.htm" />
+    <HelpKINode Title="ItemCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionChoiceView.ItemCode.htm" />
+    <HelpKINode Title="ItemCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.ItemChoice.ItemCode.htm" />
+    <HelpKINode Title="ItemCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.VoucherItem.ItemCode.htm" />
     <HelpKINode Title="ItemCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.InventoryItem.ItemCode.htm" />
+    <HelpKINode Title="ItemCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionItemZoneRate.ItemCode.htm" />
+    <HelpKINode Title="ItemCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PendingOrder.ItemCode.htm" />
+    <HelpKINode Title="ItemCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.ItemZoneRate.ItemCode.htm" />
   </HelpKINode>
   <HelpKINode Title="ItemCodes property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.AccountCreateRequestItems.ItemCodes.htm" />
   <HelpKINode Title="ItemDescription1 property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderProduct.ItemDescription1.htm" />
@@ -2374,8 +2374,8 @@
   <HelpKINode Title="ItemZoneRate.UnitPrice property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.ItemZoneRate.UnitPrice.htm" />
   <HelpKINode Title="ItemZoneRate.ZoneCode property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.ItemZoneRate.ZoneCode.htm" />
   <HelpKINode Title="JourneyType property">
-    <HelpKINode Title="JourneyType Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderCreateRequest.JourneyType.htm" />
     <HelpKINode Title="JourneyType Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.JourneyType.htm" />
+    <HelpKINode Title="JourneyType Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderCreateRequest.JourneyType.htm" />
   </HelpKINode>
   <HelpKINode Title="LanguageCode property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Country.LanguageCode.htm" />
   <HelpKINode Title="Last property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Name.Last.htm" />
@@ -2385,17 +2385,17 @@
   <HelpKINode Title="LastOrderNumber property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionSearch.LastOrderNumber.htm" />
   <HelpKINode Title="LastOrderSourceCode property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionSearch.LastOrderSourceCode.htm" />
   <HelpKINode Title="LastUpdatedDate property">
-    <HelpKINode Title="LastUpdatedDate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Issue.LastUpdatedDate.htm" />
-    <HelpKINode Title="LastUpdatedDate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.VoucherCode.LastUpdatedDate.htm" />
-    <HelpKINode Title="LastUpdatedDate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionZoneRate.LastUpdatedDate.htm" />
-    <HelpKINode Title="LastUpdatedDate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.InventoryItem.LastUpdatedDate.htm" />
-    <HelpKINode Title="LastUpdatedDate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionItem.LastUpdatedDate.htm" />
-    <HelpKINode Title="LastUpdatedDate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.ItemChoice.LastUpdatedDate.htm" />
-    <HelpKINode Title="LastUpdatedDate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionItemPayment.LastUpdatedDate.htm" />
     <HelpKINode Title="LastUpdatedDate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.ItemZoneRate.LastUpdatedDate.htm" />
-    <HelpKINode Title="LastUpdatedDate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Promotion.LastUpdatedDate.htm" />
     <HelpKINode Title="LastUpdatedDate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Publication.LastUpdatedDate.htm" />
+    <HelpKINode Title="LastUpdatedDate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionZoneRate.LastUpdatedDate.htm" />
+    <HelpKINode Title="LastUpdatedDate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionItem.LastUpdatedDate.htm" />
+    <HelpKINode Title="LastUpdatedDate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionItemPayment.LastUpdatedDate.htm" />
     <HelpKINode Title="LastUpdatedDate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionItemZoneRate.LastUpdatedDate.htm" />
+    <HelpKINode Title="LastUpdatedDate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Issue.LastUpdatedDate.htm" />
+    <HelpKINode Title="LastUpdatedDate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Promotion.LastUpdatedDate.htm" />
+    <HelpKINode Title="LastUpdatedDate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.VoucherCode.LastUpdatedDate.htm" />
+    <HelpKINode Title="LastUpdatedDate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.InventoryItem.LastUpdatedDate.htm" />
+    <HelpKINode Title="LastUpdatedDate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.ItemChoice.LastUpdatedDate.htm" />
   </HelpKINode>
   <HelpKINode Title="LastUpdatedUser property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionItemZoneRate.LastUpdatedUser.htm" />
   <HelpKINode Title="LessOrEqualThan enumeration member" Url="html/T-CDSGlobal.WebOrderLibrary.WebOrders.Enums.SearchType.htm" />
@@ -2410,9 +2410,9 @@
   <HelpKINode Title="Line3 property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PostalAddress.Line3.htm" />
   <HelpKINode Title="LineNumber property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.LineNumber.htm" />
   <HelpKINode Title="Lines property">
-    <HelpKINode Title="Lines Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.Lines.htm" />
     <HelpKINode Title="Lines Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.Lines.htm" />
     <HelpKINode Title="Lines Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderCreateRequest.Lines.htm" />
+    <HelpKINode Title="Lines Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.Lines.htm" />
   </HelpKINode>
   <HelpKINode Title="LinkedPremium class">
     <HelpKINode Title="LinkedPremium Class" Url="html/T-CDSGlobal.WebOrderLibrary.MarsOrders.LinkedPremium.htm" />
@@ -2428,8 +2428,8 @@
   <HelpKINode Title="LookUp enumeration member" Url="html/T-CDSGlobal.WebOrderLibrary.Enums.RuleType.htm" />
   <HelpKINode Title="LookUp field" Url="html/F-CDSGlobal.WebOrderLibrary.Enums.RuleType.LookUp.htm" />
   <HelpKINode Title="ManuscriptNumber property">
-    <HelpKINode Title="ManuscriptNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderProduct.ManuscriptNumber.htm" />
     <HelpKINode Title="ManuscriptNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderProduct.ManuscriptNumber.htm" />
+    <HelpKINode Title="ManuscriptNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderProduct.ManuscriptNumber.htm" />
   </HelpKINode>
   <HelpKINode Title="MarkExempt enumeration member" Url="html/T-CDSGlobal.WebOrderLibrary.MarsOrders.Enums.AddressStandardizationSettings.htm" />
   <HelpKINode Title="MarkExempt field" Url="html/F-CDSGlobal.WebOrderLibrary.MarsOrders.Enums.AddressStandardizationSettings.MarkExempt.htm" />
@@ -2517,8 +2517,8 @@
     <HelpKINode Title="MiscCharges Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderAmounts.MiscCharges.htm" />
   </HelpKINode>
   <HelpKINode Title="MiscChargesOrdered property">
-    <HelpKINode Title="MiscChargesOrdered Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderAmounts.MiscChargesOrdered.htm" />
     <HelpKINode Title="MiscChargesOrdered Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.OrderAmounts.MiscChargesOrdered.htm" />
+    <HelpKINode Title="MiscChargesOrdered Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderAmounts.MiscChargesOrdered.htm" />
   </HelpKINode>
   <HelpKINode Title="MiscPayment class">
     <HelpKINode Title="MiscPayment Class" Url="html/T-CDSGlobal.WebOrderLibrary.MarsOrders.MiscPayment.htm" />
@@ -2542,16 +2542,16 @@
     <HelpKINode Title="properties" Url="html/Properties.T-CDSGlobal.WebOrderLibrary.MarsOrders.Name.htm" />
   </HelpKINode>
   <HelpKINode Title="Name property">
-    <HelpKINode Title="Name Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.RuleResponse.Name.htm" />
     <HelpKINode Title="Name Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionRenewalPolicy.Name.htm" />
-    <HelpKINode Title="Name Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Country.Name.htm" />
-    <HelpKINode Title="Name Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionShipTo.Name.htm" />
-    <HelpKINode Title="Name Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderLineSubscription.SubscriptionPublication.Name.htm" />
     <HelpKINode Title="Name Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionStatus.Name.htm" />
-    <HelpKINode Title="Name Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Address.Name.htm" />
+    <HelpKINode Title="Name Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderInstallmentBilling.OrderInstallmentPlan.Name.htm" />
+    <HelpKINode Title="Name Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderLineSubscription.SubscriptionPublication.Name.htm" />
     <HelpKINode Title="Name Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.MetaDate.Name.htm" />
     <HelpKINode Title="Name Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionPublication.Name.htm" />
-    <HelpKINode Title="Name Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderInstallmentBilling.OrderInstallmentPlan.Name.htm" />
+    <HelpKINode Title="Name Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionShipTo.Name.htm" />
+    <HelpKINode Title="Name Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.RuleResponse.Name.htm" />
+    <HelpKINode Title="Name Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Address.Name.htm" />
+    <HelpKINode Title="Name Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Country.Name.htm" />
   </HelpKINode>
   <HelpKINode Title="Name.First property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Name.First.htm" />
   <HelpKINode Title="Name.Last property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Name.Last.htm" />
@@ -2798,8 +2798,8 @@
     <HelpKINode Title="DeferDate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderGiftMessage.DeferDate.htm" />
   </HelpKINode>
   <HelpKINode Title="OrderGiftMessage.GiftMessageType property">
-    <HelpKINode Title="GiftMessageType Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderGiftMessage.GiftMessageType.htm" />
     <HelpKINode Title="GiftMessageType Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderGiftMessage.GiftMessageType.htm" />
+    <HelpKINode Title="GiftMessageType Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderGiftMessage.GiftMessageType.htm" />
   </HelpKINode>
   <HelpKINode Title="OrderGiftMessage.MessageText property">
     <HelpKINode Title="MessageText Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderGiftMessage.MessageText.htm" />
@@ -2967,15 +2967,15 @@
   <HelpKINode Title="OrderLineSubscription.TermLength property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderLineSubscription.TermLength.htm" />
   <HelpKINode Title="OrderLineSubscription.TermNumber property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderLineSubscription.TermNumber.htm" />
   <HelpKINode Title="OrderNumber property">
-    <HelpKINode Title="OrderNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.OrderResponse.OrderNumber.htm" />
-    <HelpKINode Title="OrderNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionOriginalOrder.OrderNumber.htm" />
     <HelpKINode Title="OrderNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderAssociatedOrder.OrderNumber.htm" />
-    <HelpKINode Title="OrderNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.PendingOrder.OrderNumber.htm" />
-    <HelpKINode Title="OrderNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderNumber.htm" />
-    <HelpKINode Title="OrderNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.OrderNumber.htm" />
+    <HelpKINode Title="OrderNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.OrderResponse.OrderNumber.htm" />
     <HelpKINode Title="OrderNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.OrderNumber.htm" />
+    <HelpKINode Title="OrderNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.OrderNumber.htm" />
+    <HelpKINode Title="OrderNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderNumber.htm" />
     <HelpKINode Title="OrderNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.OrderShippingInfo.OrderTrackingInformation.OrderNumber.htm" />
+    <HelpKINode Title="OrderNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionOriginalOrder.OrderNumber.htm" />
     <HelpKINode Title="OrderNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderShippingInfo.ShippingInfoTrackingInformation.OrderNumber.htm" />
+    <HelpKINode Title="OrderNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.PendingOrder.OrderNumber.htm" />
   </HelpKINode>
   <HelpKINode Title="OrderPaymentMethod.Code property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderPayment.OrderPaymentMethod.Code.htm" />
   <HelpKINode Title="OrderPaymentMethod.Description property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderPayment.OrderPaymentMethod.Description.htm" />
@@ -2991,8 +2991,8 @@
   <HelpKINode Title="OrderProduct.ItemDescription2 property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderProduct.ItemDescription2.htm" />
   <HelpKINode Title="OrderProduct.ItemDescription3 property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderProduct.ItemDescription3.htm" />
   <HelpKINode Title="OrderProduct.ManuscriptNumber property">
-    <HelpKINode Title="ManuscriptNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderProduct.ManuscriptNumber.htm" />
     <HelpKINode Title="ManuscriptNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderProduct.ManuscriptNumber.htm" />
+    <HelpKINode Title="ManuscriptNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderProduct.ManuscriptNumber.htm" />
   </HelpKINode>
   <HelpKINode Title="OrderProduct.PriceCode property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderProduct.PriceCode.htm" />
   <HelpKINode Title="OrderProduct.ProductFormatCode property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderProduct.ProductFormatCode.htm" />
@@ -3047,9 +3047,9 @@
   <HelpKINode Title="OrderShippingInfo.TrackingInformation property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.OrderShippingInfo.TrackingInformation.htm" />
   <HelpKINode Title="OrderSourceCode property">
     <HelpKINode Title="OrderSourceCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.OrderSourceCode.htm" />
-    <HelpKINode Title="OrderSourceCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionOriginalOrder.OrderSourceCode.htm" />
     <HelpKINode Title="OrderSourceCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderCreateRequest.OrderSourceCode.htm" />
     <HelpKINode Title="OrderSourceCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.OrderSourceCode.htm" />
+    <HelpKINode Title="OrderSourceCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionOriginalOrder.OrderSourceCode.htm" />
   </HelpKINode>
   <HelpKINode Title="OrderStatus.AccessStatusCode property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.OrderStatus.AccessStatusCode.htm" />
   <HelpKINode Title="OrderStatus.CombinedStatusCode property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.OrderStatus.CombinedStatusCode.htm" />
@@ -3091,8 +3091,8 @@
   <HelpKINode Title="OrderSubscription.TermLength property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderSubscription.TermLength.htm" />
   <HelpKINode Title="OrderSubscription.VolumeGroupCode property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderSubscription.VolumeGroupCode.htm" />
   <HelpKINode Title="OrderSuccess property">
-    <HelpKINode Title="OrderSuccess Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.OrderResponse.OrderSuccess.htm" />
     <HelpKINode Title="OrderSuccess Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.PendingOrder.OrderSuccess.htm" />
+    <HelpKINode Title="OrderSuccess Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.OrderResponse.OrderSuccess.htm" />
   </HelpKINode>
   <HelpKINode Title="OrderTotal property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderAssociatedOrder.OrderTotal.htm" />
   <HelpKINode Title="OrderTrackingInformation.OrderNumber property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.OrderShippingInfo.OrderTrackingInformation.OrderNumber.htm" />
@@ -3104,10 +3104,10 @@
   <HelpKINode Title="OrderTrackingInformation.Weight property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.OrderShippingInfo.OrderTrackingInformation.Weight.htm" />
   <HelpKINode Title="OrderType enumeration" Url="html/T-CDSGlobal.WebOrderLibrary.WebOrders.Enums.OrderType.htm" />
   <HelpKINode Title="OrderType property">
+    <HelpKINode Title="OrderType Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderCreateRequest.OrderType.htm" />
     <HelpKINode Title="OrderType Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.WebOrder.OrderType.htm" />
     <HelpKINode Title="OrderType Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.OrderType.htm" />
     <HelpKINode Title="OrderType Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.OrderType.htm" />
-    <HelpKINode Title="OrderType Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderCreateRequest.OrderType.htm" />
   </HelpKINode>
   <HelpKINode Title="OrderType.New_Customer field" Url="html/F-CDSGlobal.WebOrderLibrary.WebOrders.Enums.OrderType.New_Customer.htm" />
   <HelpKINode Title="OrderType.Renewed_Customer field" Url="html/F-CDSGlobal.WebOrderLibrary.WebOrders.Enums.OrderType.Renewed_Customer.htm" />
@@ -3126,19 +3126,19 @@
   <HelpKINode Title="PackageHeaderLineNumber property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.PackageHeaderLineNumber.htm" />
   <HelpKINode Title="PaidThroughDate property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionSearch.PaidThroughDate.htm" />
   <HelpKINode Title="paresStatus property">
-    <HelpKINode Title="paresStatus Property " Url="html/P-CDSGlobal.WebOrderLibrary.Responses.ClientResponse.paresStatus.htm" />
     <HelpKINode Title="paresStatus Property " Url="html/P-CDSGlobal.WebOrderLibrary.Responses.Interfaces.ICyberSourceData.paresStatus.htm" />
+    <HelpKINode Title="paresStatus Property " Url="html/P-CDSGlobal.WebOrderLibrary.Responses.ClientResponse.paresStatus.htm" />
   </HelpKINode>
   <HelpKINode Title="Partial enumeration member" Url="html/T-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderSubscription.NonMemberSubscriptionCredits.htm" />
   <HelpKINode Title="Partial field" Url="html/F-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderSubscription.NonMemberSubscriptionCredits.Partial.htm" />
   <HelpKINode Title="Participants property">
-    <HelpKINode Title="Participants Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderAccess.Participants.htm" />
     <HelpKINode Title="Participants Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLineAccess.Participants.htm" />
+    <HelpKINode Title="Participants Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderAccess.Participants.htm" />
   </HelpKINode>
   <HelpKINode Title="Password property">
     <HelpKINode Title="Password Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.User.Password.htm" />
-    <HelpKINode Title="Password Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebApiModels.Customer.SoloPasswordUpdate.Password.htm" />
     <HelpKINode Title="Password Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SingleSignOn.Password.htm" />
+    <HelpKINode Title="Password Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebApiModels.Customer.SoloPasswordUpdate.Password.htm" />
   </HelpKINode>
   <HelpKINode Title="PasswordCannotChange enumeration member" Url="html/T-CDSGlobal.WebOrderLibrary.WebOrders.Enums.UserFlags.htm" />
   <HelpKINode Title="PasswordCannotChange field" Url="html/F-CDSGlobal.WebOrderLibrary.WebOrders.Enums.UserFlags.PasswordCannotChange.htm" />
@@ -3154,8 +3154,8 @@
     <HelpKINode Title="PayCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PaymentCode.PayCode.htm" />
   </HelpKINode>
   <HelpKINode Title="Payment property">
-    <HelpKINode Title="Payment Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.WebOrder.Payment.htm" />
     <HelpKINode Title="Payment Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.WebOrderItem.Payment.htm" />
+    <HelpKINode Title="Payment Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.WebOrder.Payment.htm" />
   </HelpKINode>
   <HelpKINode Title="PaymentAmount property" Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.WebPayment.PaymentAmount.htm" />
   <HelpKINode Title="PaymentCode class">
@@ -3167,10 +3167,10 @@
     <HelpKINode Title="properties" Url="html/Properties.T-CDSGlobal.WebOrderLibrary.MarsOrders.PaymentCode.htm" />
   </HelpKINode>
   <HelpKINode Title="PaymentCode property">
-    <HelpKINode Title="PaymentCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Subscription.PaymentCode.htm" />
     <HelpKINode Title="PaymentCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.RelatedCredit.PaymentCode.htm" />
-    <HelpKINode Title="PaymentCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.DigitalWallet.PaymentCode.htm" />
     <HelpKINode Title="PaymentCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.MiscPayment.PaymentCode.htm" />
+    <HelpKINode Title="PaymentCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Subscription.PaymentCode.htm" />
+    <HelpKINode Title="PaymentCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.DigitalWallet.PaymentCode.htm" />
   </HelpKINode>
   <HelpKINode Title="PaymentCode.CurrencyCode property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PaymentCode.CurrencyCode.htm" />
   <HelpKINode Title="PaymentCode.Description property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PaymentCode.Description.htm" />
@@ -3178,9 +3178,9 @@
   <HelpKINode Title="PaymentCode.PayType property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PaymentCode.PayType.htm" />
   <HelpKINode Title="PaymentCode.WebEnabled property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PaymentCode.WebEnabled.htm" />
   <HelpKINode Title="PaymentCodeId property">
-    <HelpKINode Title="PaymentCodeId Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionItem.PaymentCodeId.htm" />
-    <HelpKINode Title="PaymentCodeId Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionChoice.PaymentCodeId.htm" />
     <HelpKINode Title="PaymentCodeId Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionItemPayment.PaymentCodeId.htm" />
+    <HelpKINode Title="PaymentCodeId Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionChoice.PaymentCodeId.htm" />
+    <HelpKINode Title="PaymentCodeId Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionItem.PaymentCodeId.htm" />
     <HelpKINode Title="PaymentCodeId Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.ItemChoice.PaymentCodeId.htm" />
   </HelpKINode>
   <HelpKINode Title="PaymentCountryCode property" Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.WebPayment.PaymentCountryCode.htm" />
@@ -3215,10 +3215,10 @@
   <HelpKINode Title="PaymentDetailsBase.SpinnerButton property" Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.PaymentDetailsBase.SpinnerButton.htm" />
   <HelpKINode Title="PaymentDirectDebit property" Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.WebPayment.PaymentDirectDebit.htm" />
   <HelpKINode Title="PaymentMethod property">
-    <HelpKINode Title="PaymentMethod Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.PaymentMethod.htm" />
-    <HelpKINode Title="PaymentMethod Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.WebOrderItem.PaymentMethod.htm" />
     <HelpKINode Title="PaymentMethod Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderCreateRequest.PaymentMethod.htm" />
     <HelpKINode Title="PaymentMethod Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderPayment.PaymentMethod.htm" />
+    <HelpKINode Title="PaymentMethod Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.PaymentMethod.htm" />
+    <HelpKINode Title="PaymentMethod Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.WebOrderItem.PaymentMethod.htm" />
   </HelpKINode>
   <HelpKINode Title="PaymentMethodCode property">
     <HelpKINode Title="PaymentMethodCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreditCard.PaymentMethodCode.htm" />
@@ -3250,9 +3250,9 @@
     <HelpKINode Title="PaymentsReceived Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderAmounts.PaymentsReceived.htm" />
   </HelpKINode>
   <HelpKINode Title="PaymentType property">
-    <HelpKINode Title="PaymentType Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.RelatedCredit.PaymentType.htm" />
-    <HelpKINode Title="PaymentType Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedPaymentMethod.PaymentType.htm" />
     <HelpKINode Title="PaymentType Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderPayment.OrderPaymentMethod.PaymentType.htm" />
+    <HelpKINode Title="PaymentType Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedPaymentMethod.PaymentType.htm" />
+    <HelpKINode Title="PaymentType Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.RelatedCredit.PaymentType.htm" />
   </HelpKINode>
   <HelpKINode Title="PaymentTypes.BillMe field" Url="html/F-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderPayment.OrderPaymentMethod.PaymentTypes.BillMe.htm" />
   <HelpKINode Title="PaymentTypes.Check field" Url="html/F-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderPayment.OrderPaymentMethod.PaymentTypes.Check.htm" />
@@ -3264,34 +3264,34 @@
   <HelpKINode Title="PaymentTypes.Invalid field" Url="html/F-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderPayment.OrderPaymentMethod.PaymentTypes.Invalid.htm" />
   <HelpKINode Title="PaymentTypes.PayPal field" Url="html/F-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderPayment.OrderPaymentMethod.PaymentTypes.PayPal.htm" />
   <HelpKINode Title="PaymentTypes.PayPalRecurring field" Url="html/F-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderPayment.OrderPaymentMethod.PaymentTypes.PayPalRecurring.htm" />
-  <HelpKINode Title="PAYPAL enumeration member" Url="html/T-CDSGlobal.WebOrderLibrary.WebOrders.Enums.PaymentMethods.htm" />
   <HelpKINode Title="PayPal enumeration member" Url="html/T-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderPayment.OrderPaymentMethod.PaymentTypes.htm" />
-  <HelpKINode Title="PAYPAL field" Url="html/F-CDSGlobal.WebOrderLibrary.WebOrders.Enums.PaymentMethods.PAYPAL.htm" />
+  <HelpKINode Title="PAYPAL enumeration member" Url="html/T-CDSGlobal.WebOrderLibrary.WebOrders.Enums.PaymentMethods.htm" />
   <HelpKINode Title="PayPal field" Url="html/F-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderPayment.OrderPaymentMethod.PaymentTypes.PayPal.htm" />
+  <HelpKINode Title="PAYPAL field" Url="html/F-CDSGlobal.WebOrderLibrary.WebOrders.Enums.PaymentMethods.PAYPAL.htm" />
   <HelpKINode Title="PayPalRecurring enumeration member" Url="html/T-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderPayment.OrderPaymentMethod.PaymentTypes.htm" />
   <HelpKINode Title="PayPalRecurring field" Url="html/F-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderPayment.OrderPaymentMethod.PaymentTypes.PayPalRecurring.htm" />
   <HelpKINode Title="PayType property">
-    <HelpKINode Title="PayType Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionItemPayment.PayType.htm" />
     <HelpKINode Title="PayType Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PaymentCode.PayType.htm" />
+    <HelpKINode Title="PayType Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionItemPayment.PayType.htm" />
   </HelpKINode>
   <HelpKINode Title="PendingOrder class">
-    <HelpKINode Title="PendingOrder Class" Url="html/T-CDSGlobal.WebOrderLibrary.WebOrders.PendingOrder.htm" />
     <HelpKINode Title="PendingOrder Class" Url="html/T-CDSGlobal.WebOrderLibrary.MarsOrders.PendingOrder.htm" />
+    <HelpKINode Title="PendingOrder Class" Url="html/T-CDSGlobal.WebOrderLibrary.WebOrders.PendingOrder.htm" />
     <HelpKINode Title="PendingOrder Members" Url="html/AllMembers.T-CDSGlobal.WebOrderLibrary.WebOrders.PendingOrder.htm" />
     <HelpKINode Title="PendingOrder Members" Url="html/AllMembers.T-CDSGlobal.WebOrderLibrary.MarsOrders.PendingOrder.htm" />
-    <HelpKINode Title="about PendingOrder class" Url="html/T-CDSGlobal.WebOrderLibrary.MarsOrders.PendingOrder.htm" />
     <HelpKINode Title="about PendingOrder class" Url="html/T-CDSGlobal.WebOrderLibrary.WebOrders.PendingOrder.htm" />
+    <HelpKINode Title="about PendingOrder class" Url="html/T-CDSGlobal.WebOrderLibrary.MarsOrders.PendingOrder.htm" />
     <HelpKINode Title="all members" Url="html/AllMembers.T-CDSGlobal.WebOrderLibrary.MarsOrders.PendingOrder.htm" />
     <HelpKINode Title="all members" Url="html/AllMembers.T-CDSGlobal.WebOrderLibrary.WebOrders.PendingOrder.htm" />
-    <HelpKINode Title="methods" Url="html/Methods.T-CDSGlobal.WebOrderLibrary.MarsOrders.PendingOrder.htm" />
     <HelpKINode Title="methods" Url="html/Methods.T-CDSGlobal.WebOrderLibrary.WebOrders.PendingOrder.htm" />
-    <HelpKINode Title="properties" Url="html/Properties.T-CDSGlobal.WebOrderLibrary.WebOrders.PendingOrder.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-CDSGlobal.WebOrderLibrary.MarsOrders.PendingOrder.htm" />
     <HelpKINode Title="properties" Url="html/Properties.T-CDSGlobal.WebOrderLibrary.MarsOrders.PendingOrder.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-CDSGlobal.WebOrderLibrary.WebOrders.PendingOrder.htm" />
   </HelpKINode>
   <HelpKINode Title="PendingOrder.CategoryId property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PendingOrder.CategoryId.htm" />
   <HelpKINode Title="PendingOrder.CustomerNumber property">
-    <HelpKINode Title="CustomerNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PendingOrder.CustomerNumber.htm" />
     <HelpKINode Title="CustomerNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.PendingOrder.CustomerNumber.htm" />
+    <HelpKINode Title="CustomerNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PendingOrder.CustomerNumber.htm" />
   </HelpKINode>
   <HelpKINode Title="PendingOrder.DataImportId property" Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.PendingOrder.DataImportId.htm" />
   <HelpKINode Title="PendingOrder.Errors property" Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.PendingOrder.Errors.htm" />
@@ -3324,41 +3324,41 @@
   <HelpKINode Title="PostalCode property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PostalAddress.PostalCode.htm" />
   <HelpKINode Title="PostCodeRequired property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Country.PostCodeRequired.htm" />
   <HelpKINode Title="PremiumSetCode property">
-    <HelpKINode Title="PremiumSetCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.PremiumSetCode.htm" />
     <HelpKINode Title="PremiumSetCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.PremiumSetCode.htm" />
+    <HelpKINode Title="PremiumSetCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.PremiumSetCode.htm" />
   </HelpKINode>
   <HelpKINode Title="PriceCode property">
-    <HelpKINode Title="PriceCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.PriceCode.htm" />
-    <HelpKINode Title="PriceCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderProduct.PriceCode.htm" />
-    <HelpKINode Title="PriceCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLineAccess.PriceCode.htm" />
     <HelpKINode Title="PriceCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionItemZoneRate.PriceCode.htm" />
+    <HelpKINode Title="PriceCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.PriceCode.htm" />
+    <HelpKINode Title="PriceCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderLineSubscription.PriceCode.htm" />
+    <HelpKINode Title="PriceCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLineAccess.PriceCode.htm" />
+    <HelpKINode Title="PriceCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderProduct.PriceCode.htm" />
     <HelpKINode Title="PriceCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionChoiceView.PriceCode.htm" />
     <HelpKINode Title="PriceCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionZoneRate.PriceCode.htm" />
-    <HelpKINode Title="PriceCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderLineSubscription.PriceCode.htm" />
   </HelpKINode>
   <HelpKINode Title="PricingMethod property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLineAccess.PricingMethod.htm" />
   <HelpKINode Title="PricingMethods.AgreementBased field" Url="html/F-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLineAccess.PricingMethods.AgreementBased.htm" />
   <HelpKINode Title="Product enumeration member" Url="html/T-CDSGlobal.WebOrderLibrary.WebOrders.Enums.WebProductType.htm" />
   <HelpKINode Title="Product field" Url="html/F-CDSGlobal.WebOrderLibrary.WebOrders.Enums.WebProductType.Product.htm" />
   <HelpKINode Title="Product property">
-    <HelpKINode Title="Product Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.Product.htm" />
     <HelpKINode Title="Product Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.Product.htm" />
+    <HelpKINode Title="Product Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.Product.htm" />
   </HelpKINode>
   <HelpKINode Title="ProductFormatCode property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderProduct.ProductFormatCode.htm" />
   <HelpKINode Title="Production enumeration member" Url="html/T-CDSGlobal.WebOrderLibrary.Enums.CdsEnviroment.htm" />
   <HelpKINode Title="Production field" Url="html/F-CDSGlobal.WebOrderLibrary.Enums.CdsEnviroment.Production.htm" />
   <HelpKINode Title="ProductName property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.ProductName.htm" />
   <HelpKINode Title="ProductStatusCode property">
-    <HelpKINode Title="ProductStatusCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.OrderStatus.ProductStatusCode.htm" />
     <HelpKINode Title="ProductStatusCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderStatus.ProductStatusCode.htm" />
+    <HelpKINode Title="ProductStatusCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.OrderStatus.ProductStatusCode.htm" />
   </HelpKINode>
   <HelpKINode Title="ProductStatusName property">
-    <HelpKINode Title="ProductStatusName Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.OrderStatus.ProductStatusName.htm" />
     <HelpKINode Title="ProductStatusName Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderStatus.ProductStatusName.htm" />
+    <HelpKINode Title="ProductStatusName Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.OrderStatus.ProductStatusName.htm" />
   </HelpKINode>
   <HelpKINode Title="ProductType property">
-    <HelpKINode Title="ProductType Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.ProductType.htm" />
     <HelpKINode Title="ProductType Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.WebOrderSKU.ProductType.htm" />
+    <HelpKINode Title="ProductType Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.ProductType.htm" />
   </HelpKINode>
   <HelpKINode Title="Profile class">
     <HelpKINode Title="Profile Class" Url="html/T-CDSGlobal.WebOrderLibrary.MarsOrders.Profile.htm" />
@@ -3380,35 +3380,35 @@
   <HelpKINode Title="Profile.QuestionnaireCode property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Profile.QuestionnaireCode.htm" />
   <HelpKINode Title="Profile.Questions property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Profile.Questions.htm" />
   <HelpKINode Title="ProfileId property">
-    <HelpKINode Title="ProfileId Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.ProfileId.htm" />
+    <HelpKINode Title="ProfileId Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedProfile.ProfileId.htm" />
     <HelpKINode Title="ProfileId Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderLineSubscription.ProfileId.htm" />
     <HelpKINode Title="ProfileId Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderAssociation.ProfileId.htm" />
+    <HelpKINode Title="ProfileId Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.ProfileId.htm" />
     <HelpKINode Title="ProfileId Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.ProfileId.htm" />
-    <HelpKINode Title="ProfileId Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedProfile.ProfileId.htm" />
   </HelpKINode>
   <HelpKINode Title="ProformaOrderNumber property">
-    <HelpKINode Title="ProformaOrderNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.ProformaOrderNumber.htm" />
     <HelpKINode Title="ProformaOrderNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.ProformaOrderNumber.htm" />
+    <HelpKINode Title="ProformaOrderNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.ProformaOrderNumber.htm" />
   </HelpKINode>
   <HelpKINode Title="Promote property">
+    <HelpKINode Title="Promote Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CustomerUpdateRequest.Promote.htm" />
     <HelpKINode Title="Promote Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Customer.Promote.htm" />
     <HelpKINode Title="Promote Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CustomerAddress.Promote.htm" />
-    <HelpKINode Title="Promote Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CustomerUpdateRequest.Promote.htm" />
   </HelpKINode>
   <HelpKINode Title="PromoteByEmail property">
-    <HelpKINode Title="PromoteByEmail Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Address.PromoteByEmail.htm" />
     <HelpKINode Title="PromoteByEmail Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderLineSubscription.PromoteByEmail.htm" />
+    <HelpKINode Title="PromoteByEmail Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Address.PromoteByEmail.htm" />
     <HelpKINode Title="PromoteByEmail Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderSubscription.PromoteByEmail.htm" />
   </HelpKINode>
   <HelpKINode Title="PromoteByFax property">
-    <HelpKINode Title="PromoteByFax Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderSubscription.PromoteByFax.htm" />
     <HelpKINode Title="PromoteByFax Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Address.PromoteByFax.htm" />
+    <HelpKINode Title="PromoteByFax Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderSubscription.PromoteByFax.htm" />
     <HelpKINode Title="PromoteByFax Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderLineSubscription.PromoteByFax.htm" />
   </HelpKINode>
   <HelpKINode Title="PromoteByMail property">
     <HelpKINode Title="PromoteByMail Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderLineSubscription.PromoteByMail.htm" />
-    <HelpKINode Title="PromoteByMail Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderSubscription.PromoteByMail.htm" />
     <HelpKINode Title="PromoteByMail Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Address.PromoteByMail.htm" />
+    <HelpKINode Title="PromoteByMail Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderSubscription.PromoteByMail.htm" />
   </HelpKINode>
   <HelpKINode Title="PromoteByPartners property">
     <HelpKINode Title="PromoteByPartners Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CustomerUpdateRequest.PromoteByPartners.htm" />
@@ -3446,8 +3446,8 @@
     <HelpKINode Title="properties" Url="html/Properties.T-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionChoice.htm" />
   </HelpKINode>
   <HelpKINode Title="PromotionChoice property">
-    <HelpKINode Title="PromotionChoice Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Subscription.PromotionChoice.htm" />
     <HelpKINode Title="PromotionChoice Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.PromotionChoice.htm" />
+    <HelpKINode Title="PromotionChoice Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Subscription.PromotionChoice.htm" />
   </HelpKINode>
   <HelpKINode Title="PromotionChoice.CurrencyCode property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionChoice.CurrencyCode.htm" />
   <HelpKINode Title="PromotionChoice.ItemCode property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionChoice.ItemCode.htm" />
@@ -3455,13 +3455,13 @@
   <HelpKINode Title="PromotionChoice.PromotionCode property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionChoice.PromotionCode.htm" />
   <HelpKINode Title="PromotionChoice.Rate property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionChoice.Rate.htm" />
   <HelpKINode Title="PromotionChoiceCode property">
+    <HelpKINode Title="PromotionChoiceCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionSearch.PromotionChoiceCode.htm" />
+    <HelpKINode Title="PromotionChoiceCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionChoiceView.PromotionChoiceCode.htm" />
     <HelpKINode Title="PromotionChoiceCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionItem.PromotionChoiceCode.htm" />
+    <HelpKINode Title="PromotionChoiceCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.WebOrderItem.PromotionChoiceCode.htm" />
+    <HelpKINode Title="PromotionChoiceCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.PromotionChoiceCode.htm" />
     <HelpKINode Title="PromotionChoiceCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionItemZoneRate.PromotionChoiceCode.htm" />
     <HelpKINode Title="PromotionChoiceCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionChoice.PromotionChoiceCode.htm" />
-    <HelpKINode Title="PromotionChoiceCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionChoiceView.PromotionChoiceCode.htm" />
-    <HelpKINode Title="PromotionChoiceCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.PromotionChoiceCode.htm" />
-    <HelpKINode Title="PromotionChoiceCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.WebOrderItem.PromotionChoiceCode.htm" />
-    <HelpKINode Title="PromotionChoiceCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionSearch.PromotionChoiceCode.htm" />
   </HelpKINode>
   <HelpKINode Title="PromotionChoiceView class">
     <HelpKINode Title="PromotionChoiceView Class" Url="html/T-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionChoiceView.htm" />
@@ -3494,20 +3494,20 @@
   <HelpKINode Title="PromotionChoiceView.Term property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionChoiceView.Term.htm" />
   <HelpKINode Title="PromotionChoiceView.ValidDate property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionChoiceView.ValidDate.htm" />
   <HelpKINode Title="PromotionCode property">
-    <HelpKINode Title="PromotionCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionChoice.PromotionCode.htm" />
-    <HelpKINode Title="PromotionCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Promotion.PromotionCode.htm" />
-    <HelpKINode Title="PromotionCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderCreateRequest.PromotionCode.htm" />
-    <HelpKINode Title="PromotionCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionSearch.PromotionCode.htm" />
-    <HelpKINode Title="PromotionCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.PromotionCode.htm" />
+    <HelpKINode Title="PromotionCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionItemZoneRate.PromotionCode.htm" />
+    <HelpKINode Title="PromotionCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.WebOrderSKU.PromotionCode.htm" />
     <HelpKINode Title="PromotionCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.PromotionCode.htm" />
     <HelpKINode Title="PromotionCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.PromotionCode.htm" />
     <HelpKINode Title="PromotionCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CommitCheque.PromotionCode.htm" />
-    <HelpKINode Title="PromotionCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionItemZoneRate.PromotionCode.htm" />
-    <HelpKINode Title="PromotionCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.RenewalEffort.PromotionCode.htm" />
+    <HelpKINode Title="PromotionCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.PromotionCode.htm" />
     <HelpKINode Title="PromotionCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionItem.PromotionCode.htm" />
-    <HelpKINode Title="PromotionCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.WebOrderSKU.PromotionCode.htm" />
+    <HelpKINode Title="PromotionCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Promotion.PromotionCode.htm" />
     <HelpKINode Title="PromotionCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionChoiceView.PromotionCode.htm" />
+    <HelpKINode Title="PromotionCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.RenewalEffort.PromotionCode.htm" />
+    <HelpKINode Title="PromotionCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderCreateRequest.PromotionCode.htm" />
     <HelpKINode Title="PromotionCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.PromotionCode.htm" />
+    <HelpKINode Title="PromotionCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionSearch.PromotionCode.htm" />
+    <HelpKINode Title="PromotionCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionChoice.PromotionCode.htm" />
   </HelpKINode>
   <HelpKINode Title="PromotionItem class">
     <HelpKINode Title="PromotionItem Class" Url="html/T-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionItem.htm" />
@@ -3585,15 +3585,15 @@
   <HelpKINode Title="Publication.PublicationStatus property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Publication.PublicationStatus.htm" />
   <HelpKINode Title="Publication.Title property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Publication.Title.htm" />
   <HelpKINode Title="PublicationCode property">
-    <HelpKINode Title="PublicationCode Property " Url="html/P-MarsCache.Contracts.DataTransferObjects.Unknown.IssueView.PublicationCode.htm" />
-    <HelpKINode Title="PublicationCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionItem.PublicationCode.htm" />
     <HelpKINode Title="PublicationCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Publication.PublicationCode.htm" />
-    <HelpKINode Title="PublicationCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionChoice.PublicationCode.htm" />
-    <HelpKINode Title="PublicationCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionZoneRate.PublicationCode.htm" />
+    <HelpKINode Title="PublicationCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionItem.PublicationCode.htm" />
     <HelpKINode Title="PublicationCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionChoiceView.PublicationCode.htm" />
+    <HelpKINode Title="PublicationCode Property " Url="html/P-MarsCache.Contracts.DataTransferObjects.Unknown.IssueView.PublicationCode.htm" />
+    <HelpKINode Title="PublicationCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionChoice.PublicationCode.htm" />
+    <HelpKINode Title="PublicationCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Issue.PublicationCode.htm" />
     <HelpKINode Title="PublicationCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Subscription.PublicationCode.htm" />
     <HelpKINode Title="PublicationCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.WebOrderSKU.PublicationCode.htm" />
-    <HelpKINode Title="PublicationCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Issue.PublicationCode.htm" />
+    <HelpKINode Title="PublicationCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionZoneRate.PublicationCode.htm" />
   </HelpKINode>
   <HelpKINode Title="PublicationStatus property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Publication.PublicationStatus.htm" />
   <HelpKINode Title="Publisher class">
@@ -3651,15 +3651,15 @@
   </HelpKINode>
   <HelpKINode Title="PublisherBase.PublisherCode property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PublisherBase.PublisherCode.htm" />
   <HelpKINode Title="PublisherCode property">
+    <HelpKINode Title="PublisherCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PublisherBase.PublisherCode.htm" />
+    <HelpKINode Title="PublisherCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.Responses.WebOrderResponse.PublisherCode.htm" />
     <HelpKINode Title="PublisherCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.MarsOrderContainer.PublisherCode.htm" />
     <HelpKINode Title="PublisherCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.PaymentDetailsBase.PublisherCode.htm" />
     <HelpKINode Title="PublisherCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.WebOrder.PublisherCode.htm" />
-    <HelpKINode Title="PublisherCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PublisherBase.PublisherCode.htm" />
-    <HelpKINode Title="PublisherCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.Responses.WebOrderResponse.PublisherCode.htm" />
   </HelpKINode>
   <HelpKINode Title="PublisherName property">
-    <HelpKINode Title="PublisherName Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PublisherAccess.PublisherName.htm" />
     <HelpKINode Title="PublisherName Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Publisher.PublisherName.htm" />
+    <HelpKINode Title="PublisherName Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PublisherAccess.PublisherName.htm" />
   </HelpKINode>
   <HelpKINode Title="PurchaseOrder enumeration member" Url="html/T-CDSGlobal.WebOrderLibrary.Enums.TransactionTypes.htm" />
   <HelpKINode Title="PurchaseOrder field" Url="html/F-CDSGlobal.WebOrderLibrary.Enums.TransactionTypes.PurchaseOrder.htm" />
@@ -3668,17 +3668,17 @@
     <HelpKINode Title="PurchaseOrderExpireDate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.PurchaseOrderExpireDate.htm" />
   </HelpKINode>
   <HelpKINode Title="PurchaseOrderNumber property">
-    <HelpKINode Title="PurchaseOrderNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderCreateRequest.PurchaseOrderNumber.htm" />
     <HelpKINode Title="PurchaseOrderNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.PurchaseOrderNumber.htm" />
     <HelpKINode Title="PurchaseOrderNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.PurchaseOrderNumber.htm" />
+    <HelpKINode Title="PurchaseOrderNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderCreateRequest.PurchaseOrderNumber.htm" />
   </HelpKINode>
   <HelpKINode Title="PushDirectToAdvantage property" Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.PaymentDetailsBase.PushDirectToAdvantage.htm" />
   <HelpKINode Title="QualificationSource property" Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.WebOrderItem.QualificationSource.htm" />
   <HelpKINode Title="QualificationSourceCode property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderSubscription.QualificationSourceCode.htm" />
   <HelpKINode Title="Quantity property">
-    <HelpKINode Title="Quantity Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.WebOrderItem.Quantity.htm" />
     <HelpKINode Title="Quantity Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.ItemZoneRate.Quantity.htm" />
     <HelpKINode Title="Quantity Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.Quantity.htm" />
+    <HelpKINode Title="Quantity Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.WebOrderItem.Quantity.htm" />
   </HelpKINode>
   <HelpKINode Title="QuantityBackordered property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderProduct.QuantityBackordered.htm" />
   <HelpKINode Title="QuantityLost property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderProduct.QuantityLost.htm" />
@@ -3709,8 +3709,8 @@
   <HelpKINode Title="Question.Responses property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Profile.Question.Responses.htm" />
   <HelpKINode Title="Question.Sequence property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Question.Sequence.htm" />
   <HelpKINode Title="QuestionCode property">
-    <HelpKINode Title="QuestionCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Profile.Question.QuestionCode.htm" />
     <HelpKINode Title="QuestionCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Answer.QuestionCode.htm" />
+    <HelpKINode Title="QuestionCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Profile.Question.QuestionCode.htm" />
     <HelpKINode Title="QuestionCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Question.QuestionCode.htm" />
   </HelpKINode>
   <HelpKINode Title="Questionnaire class">
@@ -3725,40 +3725,40 @@
   <HelpKINode Title="Questionnaire.QuestionnaireCode property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Questionnaire.QuestionnaireCode.htm" />
   <HelpKINode Title="Questionnaire.Questions property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Questionnaire.Questions.htm" />
   <HelpKINode Title="QuestionnaireCode property">
-    <HelpKINode Title="QuestionnaireCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Profile.QuestionnaireCode.htm" />
-    <HelpKINode Title="QuestionnaireCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Question.QuestionnaireCode.htm" />
-    <HelpKINode Title="QuestionnaireCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Questionnaire.QuestionnaireCode.htm" />
-    <HelpKINode Title="QuestionnaireCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.QuestionnaireCode.htm" />
     <HelpKINode Title="QuestionnaireCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.QuestionnaireCode.htm" />
+    <HelpKINode Title="QuestionnaireCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Question.QuestionnaireCode.htm" />
+    <HelpKINode Title="QuestionnaireCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.QuestionnaireCode.htm" />
+    <HelpKINode Title="QuestionnaireCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Questionnaire.QuestionnaireCode.htm" />
+    <HelpKINode Title="QuestionnaireCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Profile.QuestionnaireCode.htm" />
   </HelpKINode>
   <HelpKINode Title="QuestionnaireName property">
-    <HelpKINode Title="QuestionnaireName Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.WebOrder.QuestionnaireName.htm" />
     <HelpKINode Title="QuestionnaireName Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionChoice.QuestionnaireName.htm" />
-    <HelpKINode Title="QuestionnaireName Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionChoiceView.QuestionnaireName.htm" />
     <HelpKINode Title="QuestionnaireName Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.WebOrderItem.QuestionnaireName.htm" />
+    <HelpKINode Title="QuestionnaireName Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.WebOrder.QuestionnaireName.htm" />
+    <HelpKINode Title="QuestionnaireName Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionChoiceView.QuestionnaireName.htm" />
   </HelpKINode>
   <HelpKINode Title="QuestionnaireProfileId property">
-    <HelpKINode Title="QuestionnaireProfileId Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.WebOrderItem.QuestionnaireProfileId.htm" />
     <HelpKINode Title="QuestionnaireProfileId Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.WebOrder.QuestionnaireProfileId.htm" />
+    <HelpKINode Title="QuestionnaireProfileId Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.WebOrderItem.QuestionnaireProfileId.htm" />
   </HelpKINode>
   <HelpKINode Title="QuestionnaireResponses property">
     <HelpKINode Title="QuestionnaireResponses Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.WebOrder.QuestionnaireResponses.htm" />
     <HelpKINode Title="QuestionnaireResponses Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.WebOrderItem.QuestionnaireResponses.htm" />
   </HelpKINode>
   <HelpKINode Title="Questions property">
-    <HelpKINode Title="Questions Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Profile.Questions.htm" />
     <HelpKINode Title="Questions Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Questionnaire.Questions.htm" />
+    <HelpKINode Title="Questions Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Profile.Questions.htm" />
   </HelpKINode>
   <HelpKINode Title="QuestionType property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Question.QuestionType.htm" />
   <HelpKINode Title="Rate property">
     <HelpKINode Title="Rate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionChoice.Rate.htm" />
-    <HelpKINode Title="Rate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderSubscription.Rate.htm" />
-    <HelpKINode Title="Rate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderLineSubscription.Rate.htm" />
-    <HelpKINode Title="Rate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionItem.Rate.htm" />
-    <HelpKINode Title="Rate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionSearch.Rate.htm" />
     <HelpKINode Title="Rate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionChoiceView.Rate.htm" />
-    <HelpKINode Title="Rate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionZoneRate.Rate.htm" />
     <HelpKINode Title="Rate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionItemZoneRate.Rate.htm" />
+    <HelpKINode Title="Rate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionZoneRate.Rate.htm" />
+    <HelpKINode Title="Rate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderSubscription.Rate.htm" />
+    <HelpKINode Title="Rate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionItem.Rate.htm" />
+    <HelpKINode Title="Rate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderLineSubscription.Rate.htm" />
+    <HelpKINode Title="Rate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionSearch.Rate.htm" />
   </HelpKINode>
   <HelpKINode Title="RateCode property" Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.WebOrderItem.RateCode.htm" />
   <HelpKINode Title="RateZone property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionChoiceView.RateZone.htm" />
@@ -3767,21 +3767,21 @@
     <HelpKINode Title="reasonCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.Responses.ClientResponse.reasonCode.htm" />
   </HelpKINode>
   <HelpKINode Title="ReasonCode property">
-    <HelpKINode Title="ReasonCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderAccess.ReasonCode.htm" />
     <HelpKINode Title="ReasonCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.Responses.WebOrderResponse.ReasonCode.htm" />
+    <HelpKINode Title="ReasonCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderAccess.ReasonCode.htm" />
   </HelpKINode>
   <HelpKINode Title="ReasonId property" Url="html/P-CDSGlobal.WebOrderLibrary.Responses.WebOrderResponse.ReasonId.htm" />
   <HelpKINode Title="RecurringDonationFrequency property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.RecurringDonationFrequency.htm" />
   <HelpKINode Title="ReferenceNumber property" Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.WebCustomer.ReferenceNumber.htm" />
   <HelpKINode Title="ReferredByCustomerNumber property">
     <HelpKINode Title="ReferredByCustomerNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.ReferredByCustomerNumber.htm" />
-    <HelpKINode Title="ReferredByCustomerNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderLineSubscription.ReferredByCustomerNumber.htm" />
     <HelpKINode Title="ReferredByCustomerNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderSubscription.ReferredByCustomerNumber.htm" />
     <HelpKINode Title="ReferredByCustomerNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.ReferredByCustomerNumber.htm" />
+    <HelpKINode Title="ReferredByCustomerNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderLineSubscription.ReferredByCustomerNumber.htm" />
   </HelpKINode>
   <HelpKINode Title="RefundFlag property">
-    <HelpKINode Title="RefundFlag Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.RefundFlag.htm" />
     <HelpKINode Title="RefundFlag Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.RefundFlag.htm" />
+    <HelpKINode Title="RefundFlag Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.RefundFlag.htm" />
   </HelpKINode>
   <HelpKINode Title="Regex enumeration member" Url="html/T-CDSGlobal.WebOrderLibrary.Enums.RuleType.htm" />
   <HelpKINode Title="Regex field" Url="html/F-CDSGlobal.WebOrderLibrary.Enums.RuleType.Regex.htm" />
@@ -3862,32 +3862,32 @@
   <HelpKINode Title="RenewalEffort.PromotionCode property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.RenewalEffort.PromotionCode.htm" />
   <HelpKINode Title="RenewalFlag property">
     <HelpKINode Title="RenewalFlag Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Subscription.RenewalFlag.htm" />
-    <HelpKINode Title="RenewalFlag Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionChoiceView.RenewalFlag.htm" />
     <HelpKINode Title="RenewalFlag Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.WebPayment.RenewalFlag.htm" />
+    <HelpKINode Title="RenewalFlag Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionChoiceView.RenewalFlag.htm" />
   </HelpKINode>
   <HelpKINode Title="RenewalHandling property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionRenewalPolicy.RenewalHandling.htm" />
   <HelpKINode Title="RenewalPolicy property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionSearch.RenewalPolicy.htm" />
   <HelpKINode Title="RenewalPolicyCode property">
-    <HelpKINode Title="RenewalPolicyCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderLineSubscription.RenewalPolicyCode.htm" />
     <HelpKINode Title="RenewalPolicyCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLineAccess.RenewalPolicyCode.htm" />
-    <HelpKINode Title="RenewalPolicyCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderAccess.RenewalPolicyCode.htm" />
     <HelpKINode Title="RenewalPolicyCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderSubscription.RenewalPolicyCode.htm" />
+    <HelpKINode Title="RenewalPolicyCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderAccess.RenewalPolicyCode.htm" />
+    <HelpKINode Title="RenewalPolicyCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderLineSubscription.RenewalPolicyCode.htm" />
   </HelpKINode>
   <HelpKINode Title="RenewalType property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionChoice.RenewalType.htm" />
   <HelpKINode Title="Renewed_Customer enumeration member" Url="html/T-CDSGlobal.WebOrderLibrary.WebOrders.Enums.OrderType.htm" />
   <HelpKINode Title="Renewed_Customer field" Url="html/F-CDSGlobal.WebOrderLibrary.WebOrders.Enums.OrderType.Renewed_Customer.htm" />
   <HelpKINode Title="RequestedShipViaCode property">
+    <HelpKINode Title="RequestedShipViaCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderProduct.RequestedShipViaCode.htm" />
     <HelpKINode Title="RequestedShipViaCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.OrderShippingInfo.RequestedShipViaCode.htm" />
     <HelpKINode Title="RequestedShipViaCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderShippingInfo.RequestedShipViaCode.htm" />
-    <HelpKINode Title="RequestedShipViaCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderProduct.RequestedShipViaCode.htm" />
   </HelpKINode>
   <HelpKINode Title="requestId property">
     <HelpKINode Title="requestId Property " Url="html/P-CDSGlobal.WebOrderLibrary.Responses.ClientResponse.requestId.htm" />
     <HelpKINode Title="requestId Property " Url="html/P-CDSGlobal.WebOrderLibrary.Responses.Interfaces.ICyberSourceData.requestId.htm" />
   </HelpKINode>
   <HelpKINode Title="requestToken property">
-    <HelpKINode Title="requestToken Property " Url="html/P-CDSGlobal.WebOrderLibrary.Responses.Interfaces.ICyberSourceData.requestToken.htm" />
     <HelpKINode Title="requestToken Property " Url="html/P-CDSGlobal.WebOrderLibrary.Responses.ClientResponse.requestToken.htm" />
+    <HelpKINode Title="requestToken Property " Url="html/P-CDSGlobal.WebOrderLibrary.Responses.Interfaces.ICyberSourceData.requestToken.htm" />
   </HelpKINode>
   <HelpKINode Title="RequiredField property" Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.ColumnDetailsResponse.RequiredField.htm" />
   <HelpKINode Title="RequireWhenCategoryAttribute class">
@@ -3910,12 +3910,12 @@
   <HelpKINode Title="RestUid property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PublisherAccess.RestUid.htm" />
   <HelpKINode Title="RestUidEncrypted property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PublisherAccess.RestUidEncrypted.htm" />
   <HelpKINode Title="Results property">
-    <HelpKINode Title="Results Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CustomerSearchResult.Results.htm" />
     <HelpKINode Title="Results Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionSearchResult.Results.htm" />
+    <HelpKINode Title="Results Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CustomerSearchResult.Results.htm" />
   </HelpKINode>
   <HelpKINode Title="ReturnUrl property">
-    <HelpKINode Title="ReturnUrl Property " Url="html/P-CDSGlobal.WebOrderLibrary.Responses.WebOrderResponse.ReturnUrl.htm" />
     <HelpKINode Title="ReturnUrl Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.PaymentDetailsBase.ReturnUrl.htm" />
+    <HelpKINode Title="ReturnUrl Property " Url="html/P-CDSGlobal.WebOrderLibrary.Responses.WebOrderResponse.ReturnUrl.htm" />
   </HelpKINode>
   <HelpKINode Title="ReturnURLFor3DSecure property" Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.WebOrder.ReturnURLFor3DSecure.htm" />
   <HelpKINode Title="RinggoldId property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CustomerSearch.RinggoldId.htm" />
@@ -3965,17 +3965,17 @@
   <HelpKINode Title="SalesAmount property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.SalesAmount.htm" />
   <HelpKINode Title="SalesAmountOrdered property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.SalesAmountOrdered.htm" />
   <HelpKINode Title="SalesRepCode property">
-    <HelpKINode Title="SalesRepCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderCreateRequest.SalesRepCode.htm" />
     <HelpKINode Title="SalesRepCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.SalesRepCode.htm" />
     <HelpKINode Title="SalesRepCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.SalesRepCode.htm" />
+    <HelpKINode Title="SalesRepCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderCreateRequest.SalesRepCode.htm" />
   </HelpKINode>
   <HelpKINode Title="SalesTax property">
-    <HelpKINode Title="SalesTax Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.OrderAmounts.SalesTax.htm" />
     <HelpKINode Title="SalesTax Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderAmounts.SalesTax.htm" />
+    <HelpKINode Title="SalesTax Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.OrderAmounts.SalesTax.htm" />
   </HelpKINode>
   <HelpKINode Title="SalesTaxOrdered property">
-    <HelpKINode Title="SalesTaxOrdered Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.OrderAmounts.SalesTaxOrdered.htm" />
     <HelpKINode Title="SalesTaxOrdered Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderAmounts.SalesTaxOrdered.htm" />
+    <HelpKINode Title="SalesTaxOrdered Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.OrderAmounts.SalesTaxOrdered.htm" />
   </HelpKINode>
   <HelpKINode Title="SaveForFuturePayments property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreditCard.SaveForFuturePayments.htm" />
   <HelpKINode Title="SaveForFutureUse property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.BankAccount.SaveForFutureUse.htm" />
@@ -4016,8 +4016,8 @@
   </HelpKINode>
   <HelpKINode Title="SessionName property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderConference.SessionName.htm" />
   <HelpKINode Title="SexCode property">
-    <HelpKINode Title="SexCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Customer.SexCode.htm" />
     <HelpKINode Title="SexCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CustomerUpdateRequest.SexCode.htm" />
+    <HelpKINode Title="SexCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Customer.SexCode.htm" />
   </HelpKINode>
   <HelpKINode Title="ShipDate property">
     <HelpKINode Title="ShipDate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderShippingInfo.ShipDate.htm" />
@@ -4028,17 +4028,17 @@
   <HelpKINode Title="ShippingAddressCode property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Subscription.ShippingAddressCode.htm" />
   <HelpKINode Title="ShippingCharges property">
     <HelpKINode Title="ShippingCharges Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.ShippingCharges.htm" />
-    <HelpKINode Title="ShippingCharges Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderAmounts.ShippingCharges.htm" />
     <HelpKINode Title="ShippingCharges Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.OrderAmounts.ShippingCharges.htm" />
+    <HelpKINode Title="ShippingCharges Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderAmounts.ShippingCharges.htm" />
   </HelpKINode>
   <HelpKINode Title="ShippingChargesOrdered property">
-    <HelpKINode Title="ShippingChargesOrdered Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.OrderAmounts.ShippingChargesOrdered.htm" />
-    <HelpKINode Title="ShippingChargesOrdered Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.ShippingChargesOrdered.htm" />
     <HelpKINode Title="ShippingChargesOrdered Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderAmounts.ShippingChargesOrdered.htm" />
+    <HelpKINode Title="ShippingChargesOrdered Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.ShippingChargesOrdered.htm" />
+    <HelpKINode Title="ShippingChargesOrdered Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.OrderAmounts.ShippingChargesOrdered.htm" />
   </HelpKINode>
   <HelpKINode Title="ShippingDate property">
-    <HelpKINode Title="ShippingDate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.OrderShippingInfo.OrderTrackingInformation.ShippingDate.htm" />
     <HelpKINode Title="ShippingDate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderShippingInfo.ShippingInfoTrackingInformation.ShippingDate.htm" />
+    <HelpKINode Title="ShippingDate Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.OrderShippingInfo.OrderTrackingInformation.ShippingDate.htm" />
   </HelpKINode>
   <HelpKINode Title="ShippingInfo property">
     <HelpKINode Title="ShippingInfo Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.ShippingInfo.htm" />
@@ -4053,29 +4053,29 @@
   <HelpKINode Title="ShippingInfoTrackingInformation.Weight property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderShippingInfo.ShippingInfoTrackingInformation.Weight.htm" />
   <HelpKINode Title="ShippingSequence property">
     <HelpKINode Title="ShippingSequence Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderShippingInfo.ShippingInfoTrackingInformation.ShippingSequence.htm" />
-    <HelpKINode Title="ShippingSequence Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderProduct.ShippingSequence.htm" />
     <HelpKINode Title="ShippingSequence Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.OrderShippingInfo.OrderTrackingInformation.ShippingSequence.htm" />
+    <HelpKINode Title="ShippingSequence Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderProduct.ShippingSequence.htm" />
   </HelpKINode>
   <HelpKINode Title="ShipThroughCustomerNumber property">
-    <HelpKINode Title="ShipThroughCustomerNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.OrderShippingInfo.ShipThroughCustomerNumber.htm" />
     <HelpKINode Title="ShipThroughCustomerNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderShippingInfo.ShipThroughCustomerNumber.htm" />
     <HelpKINode Title="ShipThroughCustomerNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderSubscription.ShipThroughCustomerNumber.htm" />
+    <HelpKINode Title="ShipThroughCustomerNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.OrderShippingInfo.ShipThroughCustomerNumber.htm" />
   </HelpKINode>
   <HelpKINode Title="ShipTo property">
-    <HelpKINode Title="ShipTo Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.ShipTo.htm" />
-    <HelpKINode Title="ShipTo Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderCreateRequest.ShipTo.htm" />
-    <HelpKINode Title="ShipTo Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionSearch.ShipTo.htm" />
     <HelpKINode Title="ShipTo Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.ShipTo.htm" />
-    <HelpKINode Title="ShipTo Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.ShipTo.htm" />
+    <HelpKINode Title="ShipTo Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderCreateRequest.ShipTo.htm" />
     <HelpKINode Title="ShipTo Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.ShipTo.htm" />
+    <HelpKINode Title="ShipTo Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.ShipTo.htm" />
+    <HelpKINode Title="ShipTo Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionSearch.ShipTo.htm" />
+    <HelpKINode Title="ShipTo Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.ShipTo.htm" />
   </HelpKINode>
   <HelpKINode Title="ShipToCount property">
     <HelpKINode Title="ShipToCount Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.OrderShippingInfo.ShipToCount.htm" />
     <HelpKINode Title="ShipToCount Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderShippingInfo.ShipToCount.htm" />
   </HelpKINode>
   <HelpKINode Title="ShipViaCode property">
-    <HelpKINode Title="ShipViaCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.OrderShippingInfo.OrderTrackingInformation.ShipViaCode.htm" />
     <HelpKINode Title="ShipViaCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderShippingInfo.ShippingInfoTrackingInformation.ShipViaCode.htm" />
+    <HelpKINode Title="ShipViaCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.OrderShippingInfo.OrderTrackingInformation.ShipViaCode.htm" />
   </HelpKINode>
   <HelpKINode Title="SingleSignOn class">
     <HelpKINode Title="SingleSignOn Class" Url="html/T-CDSGlobal.WebOrderLibrary.MarsOrders.SingleSignOn.htm" />
@@ -4102,8 +4102,8 @@
   <HelpKINode Title="SmartCardRequired enumeration member" Url="html/T-CDSGlobal.WebOrderLibrary.WebOrders.Enums.UserFlags.htm" />
   <HelpKINode Title="SmartCardRequired field" Url="html/F-CDSGlobal.WebOrderLibrary.WebOrders.Enums.UserFlags.SmartCardRequired.htm" />
   <HelpKINode Title="SocietyCode property">
-    <HelpKINode Title="SocietyCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderAccess.SocietyCode.htm" />
     <HelpKINode Title="SocietyCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderSubscription.SocietyCode.htm" />
+    <HelpKINode Title="SocietyCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderAccess.SocietyCode.htm" />
   </HelpKINode>
   <HelpKINode Title="SoloPasswordUpdate class">
     <HelpKINode Title="SoloPasswordUpdate Class" Url="html/T-CDSGlobal.WebOrderLibrary.WebApiModels.Customer.SoloPasswordUpdate.htm" />
@@ -4127,22 +4127,22 @@
   <HelpKINode Title="StartIssueDate property" Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.WebOrderItem.StartIssueDate.htm" />
   <HelpKINode Title="StartMonth property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreditCard.StartMonth.htm" />
   <HelpKINode Title="Starts property">
-    <HelpKINode Title="Starts Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderLineSubscription.Starts.htm" />
     <HelpKINode Title="Starts Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderAccess.Starts.htm" />
     <HelpKINode Title="Starts Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderSubscription.Starts.htm" />
+    <HelpKINode Title="Starts Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderLineSubscription.Starts.htm" />
   </HelpKINode>
   <HelpKINode Title="StartsBookclubParticipation property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderProduct.StartsBookclubParticipation.htm" />
   <HelpKINode Title="StartYear property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreditCard.StartYear.htm" />
   <HelpKINode Title="StateCode property">
-    <HelpKINode Title="StateCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.GeoState.StateCode.htm" />
     <HelpKINode Title="StateCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PostalAddress.StateCode.htm" />
+    <HelpKINode Title="StateCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.GeoState.StateCode.htm" />
   </HelpKINode>
   <HelpKINode Title="StateName property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.GeoState.StateName.htm" />
   <HelpKINode Title="Status property">
     <HelpKINode Title="Status Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.Status.htm" />
+    <HelpKINode Title="Status Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionSearch.Status.htm" />
     <HelpKINode Title="Status Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.Status.htm" />
     <HelpKINode Title="Status Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.Status.htm" />
-    <HelpKINode Title="Status Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionSearch.Status.htm" />
   </HelpKINode>
   <HelpKINode Title="StockStatusCode property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderProduct.StockStatusCode.htm" />
   <HelpKINode Title="String enumeration member" Url="html/T-CDSGlobal.WebOrderLibrary.Enums.CDSDataTypes.htm" />
@@ -4168,8 +4168,8 @@
     <HelpKINode Title="WebProductType Enumeration" Url="html/T-CDSGlobal.WebOrderLibrary.WebOrders.Enums.WebProductType.htm" />
   </HelpKINode>
   <HelpKINode Title="Subscription field">
-    <HelpKINode Title="Subscription Field" Url="html/F-CDSGlobal.WebOrderLibrary.WebOrders.Enums.WebProductType.Subscription.htm" />
     <HelpKINode Title="Subscription Field" Url="html/F-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderLineStatus.Subscription.htm" />
+    <HelpKINode Title="Subscription Field" Url="html/F-CDSGlobal.WebOrderLibrary.WebOrders.Enums.WebProductType.Subscription.htm" />
   </HelpKINode>
   <HelpKINode Title="Subscription property">
     <HelpKINode Title="Subscription Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.Subscription.htm" />
@@ -4230,33 +4230,33 @@
   <HelpKINode Title="SubscriptionChoice.SubscriptionType property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionChoice.SubscriptionType.htm" />
   <HelpKINode Title="SubscriptionChoice.Term property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionChoice.Term.htm" />
   <HelpKINode Title="SubscriptionChoiceCode property">
-    <HelpKINode Title="SubscriptionChoiceCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionZoneRate.SubscriptionChoiceCode.htm" />
-    <HelpKINode Title="SubscriptionChoiceCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionChoice.SubscriptionChoiceCode.htm" />
     <HelpKINode Title="SubscriptionChoiceCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionChoiceView.SubscriptionChoiceCode.htm" />
     <HelpKINode Title="SubscriptionChoiceCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionItem.SubscriptionChoiceCode.htm" />
+    <HelpKINode Title="SubscriptionChoiceCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionChoice.SubscriptionChoiceCode.htm" />
+    <HelpKINode Title="SubscriptionChoiceCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionZoneRate.SubscriptionChoiceCode.htm" />
   </HelpKINode>
   <HelpKINode Title="SubscriptionChoiceDescription property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionChoice.SubscriptionChoiceDescription.htm" />
   <HelpKINode Title="SubscriptionChoiceStatus property">
-    <HelpKINode Title="SubscriptionChoiceStatus Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionChoiceView.SubscriptionChoiceStatus.htm" />
     <HelpKINode Title="SubscriptionChoiceStatus Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionChoice.SubscriptionChoiceStatus.htm" />
+    <HelpKINode Title="SubscriptionChoiceStatus Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionChoiceView.SubscriptionChoiceStatus.htm" />
   </HelpKINode>
   <HelpKINode Title="SubscriptionChoiceType property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionChoiceView.SubscriptionChoiceType.htm" />
   <HelpKINode Title="SubscriptionClass property">
-    <HelpKINode Title="SubscriptionClass Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderLineSubscription.SubscriptionClass.htm" />
-    <HelpKINode Title="SubscriptionClass Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.WebOrderItem.SubscriptionClass.htm" />
     <HelpKINode Title="SubscriptionClass Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderSubscription.SubscriptionClass.htm" />
+    <HelpKINode Title="SubscriptionClass Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.WebOrderItem.SubscriptionClass.htm" />
+    <HelpKINode Title="SubscriptionClass Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderLineSubscription.SubscriptionClass.htm" />
     <HelpKINode Title="SubscriptionClass Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionSearch.SubscriptionClass.htm" />
   </HelpKINode>
   <HelpKINode Title="SubscriptionClasses.Regular field" Url="html/F-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderSubscription.SubscriptionClasses.Regular.htm" />
   <HelpKINode Title="SubscriptionExpires property">
-    <HelpKINode Title="SubscriptionExpires Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderLineSubscription.SubscriptionExpires.htm" />
     <HelpKINode Title="SubscriptionExpires Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionSearch.SubscriptionExpires.htm" />
+    <HelpKINode Title="SubscriptionExpires Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderLineSubscription.SubscriptionExpires.htm" />
   </HelpKINode>
   <HelpKINode Title="SubscriptionId property">
-    <HelpKINode Title="SubscriptionId Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderLineSubscription.SubscriptionId.htm" />
     <HelpKINode Title="SubscriptionId Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionPaymentMethodUpdate.SubscriptionId.htm" />
-    <HelpKINode Title="SubscriptionId Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderSubscription.SubscriptionId.htm" />
     <HelpKINode Title="SubscriptionId Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionSearch.SubscriptionId.htm" />
+    <HelpKINode Title="SubscriptionId Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderLineSubscription.SubscriptionId.htm" />
+    <HelpKINode Title="SubscriptionId Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderSubscription.SubscriptionId.htm" />
   </HelpKINode>
   <HelpKINode Title="SubscriptionIssuesRemaining property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionSearch.SubscriptionIssuesRemaining.htm" />
   <HelpKINode Title="SubscriptionOriginalOrder class">
@@ -4300,8 +4300,8 @@
     <HelpKINode Title="Name Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderLineSubscription.SubscriptionPublication.Name.htm" />
   </HelpKINode>
   <HelpKINode Title="SubscriptionReference property">
-    <HelpKINode Title="SubscriptionReference Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PendingOrder.SubscriptionReference.htm" />
     <HelpKINode Title="SubscriptionReference Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Subscription.SubscriptionReference.htm" />
+    <HelpKINode Title="SubscriptionReference Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PendingOrder.SubscriptionReference.htm" />
   </HelpKINode>
   <HelpKINode Title="SubscriptionRenewalPolicy class">
     <HelpKINode Title="SubscriptionRenewalPolicy Class" Url="html/T-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionRenewalPolicy.htm" />
@@ -4422,18 +4422,18 @@
   <HelpKINode Title="SubscriptionStatus.IsNonPayCancelled property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionStatus.IsNonPayCancelled.htm" />
   <HelpKINode Title="SubscriptionStatus.Name property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionStatus.Name.htm" />
   <HelpKINode Title="SubscriptionStatusCode property">
-    <HelpKINode Title="SubscriptionStatusCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderLineSubscription.SubscriptionStatusCode.htm" />
     <HelpKINode Title="SubscriptionStatusCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderStatus.SubscriptionStatusCode.htm" />
     <HelpKINode Title="SubscriptionStatusCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.OrderStatus.SubscriptionStatusCode.htm" />
+    <HelpKINode Title="SubscriptionStatusCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderLineSubscription.SubscriptionStatusCode.htm" />
   </HelpKINode>
   <HelpKINode Title="SubscriptionType property">
-    <HelpKINode Title="SubscriptionType Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.WebOrderItem.SubscriptionType.htm" />
     <HelpKINode Title="SubscriptionType Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionChoice.SubscriptionType.htm" />
+    <HelpKINode Title="SubscriptionType Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.WebOrderItem.SubscriptionType.htm" />
   </HelpKINode>
   <HelpKINode Title="SubscriptionTypeCode property">
     <HelpKINode Title="SubscriptionTypeCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderAccess.SubscriptionTypeCode.htm" />
-    <HelpKINode Title="SubscriptionTypeCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderSubscription.SubscriptionTypeCode.htm" />
     <HelpKINode Title="SubscriptionTypeCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderLineSubscription.SubscriptionTypeCode.htm" />
+    <HelpKINode Title="SubscriptionTypeCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderSubscription.SubscriptionTypeCode.htm" />
   </HelpKINode>
   <HelpKINode Title="SubscriptionUpdateRequest class">
     <HelpKINode Title="SubscriptionUpdateRequest Class" Url="html/T-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionUpdateRequest.htm" />
@@ -4484,13 +4484,13 @@
   <HelpKINode Title="SuccessfulUpload field" Url="html/F-CDSGlobal.WebOrderLibrary.WebOrders.Enums.ResponseMessage.SuccessfulUpload.htm" />
   <HelpKINode Title="Suffix property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Name.Suffix.htm" />
   <HelpKINode Title="Surname property">
-    <HelpKINode Title="Surname Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.WebCustomer.Surname.htm" />
     <HelpKINode Title="Surname Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.RenewalCustomer.Surname.htm" />
+    <HelpKINode Title="Surname Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.WebCustomer.Surname.htm" />
   </HelpKINode>
   <HelpKINode Title="Symbol property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Currency.Symbol.htm" />
   <HelpKINode Title="Tax property">
-    <HelpKINode Title="Tax Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.WebOrderItem.Tax.htm" />
     <HelpKINode Title="Tax Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.Tax.htm" />
+    <HelpKINode Title="Tax Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.WebOrderItem.Tax.htm" />
   </HelpKINode>
   <HelpKINode Title="TaxOrdered property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.TaxOrdered.htm" />
   <HelpKINode Title="TempDuplicateAccount enumeration member" Url="html/T-CDSGlobal.WebOrderLibrary.WebOrders.Enums.UserFlags.htm" />
@@ -4504,15 +4504,15 @@
   <HelpKINode Title="TermExpires property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionSearch.TermExpires.htm" />
   <HelpKINode Title="TermIssuesRemaining property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionSearch.TermIssuesRemaining.htm" />
   <HelpKINode Title="TermLength property">
-    <HelpKINode Title="TermLength Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionSearch.TermLength.htm" />
     <HelpKINode Title="TermLength Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderLineSubscription.TermLength.htm" />
+    <HelpKINode Title="TermLength Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionSearch.TermLength.htm" />
     <HelpKINode Title="TermLength Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderSubscription.TermLength.htm" />
   </HelpKINode>
   <HelpKINode Title="TermNumber property">
-    <HelpKINode Title="TermNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionSearch.TermNumber.htm" />
     <HelpKINode Title="TermNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Subscription.TermNumber.htm" />
     <HelpKINode Title="TermNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.OrderLineSubscription.TermNumber.htm" />
     <HelpKINode Title="TermNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLineAccess.TermNumber.htm" />
+    <HelpKINode Title="TermNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionSearch.TermNumber.htm" />
   </HelpKINode>
   <HelpKINode Title="TermStarts property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionSearch.TermStarts.htm" />
   <HelpKINode Title="Testing enumeration member" Url="html/T-CDSGlobal.WebOrderLibrary.Enums.CdsEnviroment.htm" />
@@ -4520,8 +4520,8 @@
   <HelpKINode Title="Text property" Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.RuleLookUps.Text.htm" />
   <HelpKINode Title="TillReceiptEmail property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Publisher.TillReceiptEmail.htm" />
   <HelpKINode Title="Title property">
-    <HelpKINode Title="Title Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.WebCustomer.Title.htm" />
     <HelpKINode Title="Title Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Publication.Title.htm" />
+    <HelpKINode Title="Title Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.WebCustomer.Title.htm" />
     <HelpKINode Title="Title Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Name.Title.htm" />
     <HelpKINode Title="Title Property " Url="html/P-MarsCache.Contracts.DataTransferObjects.Unknown.IssueView.Title.htm" />
   </HelpKINode>
@@ -4539,14 +4539,14 @@
   <HelpKINode Title="ToPurchaseOrder method" Url="html/M-CDSGlobal.WebOrderLibrary.Extenstions.WebOrderExtentions.ToPurchaseOrder.htm" />
   <HelpKINode Title="TotalAmountPaid property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.RelatedDebit.TotalAmountPaid.htm" />
   <HelpKINode Title="TotalCost property">
-    <HelpKINode Title="TotalCost Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.TotalCost.htm" />
     <HelpKINode Title="TotalCost Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderAmounts.TotalCost.htm" />
+    <HelpKINode Title="TotalCost Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.TotalCost.htm" />
     <HelpKINode Title="TotalCost Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.OrderAmounts.TotalCost.htm" />
   </HelpKINode>
   <HelpKINode Title="TotalCostOrdered property">
-    <HelpKINode Title="TotalCostOrdered Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderAmounts.TotalCostOrdered.htm" />
     <HelpKINode Title="TotalCostOrdered Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrderLine.TotalCostOrdered.htm" />
     <HelpKINode Title="TotalCostOrdered Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.OrderAmounts.TotalCostOrdered.htm" />
+    <HelpKINode Title="TotalCostOrdered Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderAmounts.TotalCostOrdered.htm" />
   </HelpKINode>
   <HelpKINode Title="TotalDebitAmount property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.RelatedDebit.TotalDebitAmount.htm" />
   <HelpKINode Title="TotalDebits property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderInstallmentBilling.OrderSchedule.TotalDebits.htm" />
@@ -4563,17 +4563,17 @@
     <HelpKINode Title="TotalSalesAmount Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.OrderAmounts.TotalSalesAmount.htm" />
   </HelpKINode>
   <HelpKINode Title="TotalSalesAmountOrdered property">
-    <HelpKINode Title="TotalSalesAmountOrdered Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.OrderAmounts.TotalSalesAmountOrdered.htm" />
     <HelpKINode Title="TotalSalesAmountOrdered Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderAmounts.TotalSalesAmountOrdered.htm" />
+    <HelpKINode Title="TotalSalesAmountOrdered Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.OrderAmounts.TotalSalesAmountOrdered.htm" />
   </HelpKINode>
   <HelpKINode Title="ToWebOrder method" Url="html/M-CDSGlobal.WebOrderLibrary.Extenstions.WebOrderExtentions.ToWebOrder.htm" />
   <HelpKINode Title="TrackingInformation property">
-    <HelpKINode Title="TrackingInformation Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.OrderShippingInfo.TrackingInformation.htm" />
     <HelpKINode Title="TrackingInformation Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderShippingInfo.TrackingInformation.htm" />
+    <HelpKINode Title="TrackingInformation Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.OrderShippingInfo.TrackingInformation.htm" />
   </HelpKINode>
   <HelpKINode Title="TrackingNumber property">
-    <HelpKINode Title="TrackingNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderShippingInfo.ShippingInfoTrackingInformation.TrackingNumber.htm" />
     <HelpKINode Title="TrackingNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.OrderShippingInfo.OrderTrackingInformation.TrackingNumber.htm" />
+    <HelpKINode Title="TrackingNumber Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.CreatedOrderShippingInfo.ShippingInfoTrackingInformation.TrackingNumber.htm" />
   </HelpKINode>
   <HelpKINode Title="TrackingSource property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderCreateRequest.TrackingSource.htm" />
   <HelpKINode Title="TrackingUrl property">
@@ -4582,9 +4582,9 @@
   </HelpKINode>
   <HelpKINode Title="TransactionId property">
     <HelpKINode Title="TransactionId Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.PendingOrder.TransactionId.htm" />
-    <HelpKINode Title="TransactionId Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.DigitalWallet.TransactionId.htm" />
     <HelpKINode Title="TransactionId Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.OrderResponse.TransactionId.htm" />
     <HelpKINode Title="TransactionId Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.WebPayment.TransactionId.htm" />
+    <HelpKINode Title="TransactionId Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.DigitalWallet.TransactionId.htm" />
   </HelpKINode>
   <HelpKINode Title="TransactionStatus property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.DigitalWallet.TransactionStatus.htm" />
   <HelpKINode Title="TransactionTypes enumeration" Url="html/T-CDSGlobal.WebOrderLibrary.Enums.TransactionTypes.htm" />
@@ -4646,30 +4646,30 @@
   <HelpKINode Title="UserFlags.UseDesKeyOnly field" Url="html/F-CDSGlobal.WebOrderLibrary.WebOrders.Enums.UserFlags.UseDesKeyOnly.htm" />
   <HelpKINode Title="UserFlags.WorkstationTrustAccount field" Url="html/F-CDSGlobal.WebOrderLibrary.WebOrders.Enums.UserFlags.WorkstationTrustAccount.htm" />
   <HelpKINode Title="UserName property">
-    <HelpKINode Title="UserName Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SingleSignOn.UserName.htm" />
     <HelpKINode Title="UserName Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.User.UserName.htm" />
+    <HelpKINode Title="UserName Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SingleSignOn.UserName.htm" />
   </HelpKINode>
   <HelpKINode Title="UserOrEmail property" Url="html/P-CDSGlobal.WebOrderLibrary.WebApiModels.Customer.SoloPasswordUpdate.UserOrEmail.htm" />
   <HelpKINode Title="UseState property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Country.UseState.htm" />
   <HelpKINode Title="Valdidate method" Url="html/M-CDSGlobal.WebOrderLibrary.Extenstions.WebOrderExtentions.Valdidate.htm" />
   <HelpKINode Title="ValidDate property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionChoiceView.ValidDate.htm" />
   <HelpKINode Title="Value property">
-    <HelpKINode Title="Value Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.RuleLookUps.Value.htm" />
     <HelpKINode Title="Value Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Demographic.Value.htm" />
+    <HelpKINode Title="Value Property " Url="html/P-CDSGlobal.WebOrderLibrary.WebOrders.RuleLookUps.Value.htm" />
   </HelpKINode>
   <HelpKINode Title="ValueList property">
-    <HelpKINode Title="ValueList Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionItem.ValueList.htm" />
     <HelpKINode Title="ValueList Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Promotion.ValueList.htm" />
+    <HelpKINode Title="ValueList Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionItem.ValueList.htm" />
   </HelpKINode>
   <HelpKINode Title="veresEnrolled property">
-    <HelpKINode Title="veresEnrolled Property " Url="html/P-CDSGlobal.WebOrderLibrary.Responses.Interfaces.ICyberSourceData.veresEnrolled.htm" />
     <HelpKINode Title="veresEnrolled Property " Url="html/P-CDSGlobal.WebOrderLibrary.Responses.ClientResponse.veresEnrolled.htm" />
+    <HelpKINode Title="veresEnrolled Property " Url="html/P-CDSGlobal.WebOrderLibrary.Responses.Interfaces.ICyberSourceData.veresEnrolled.htm" />
   </HelpKINode>
   <HelpKINode Title="version field" Url="html/F-CDSGlobal.WebOrderLibrary.Attributes.SensitiveAttribute.version.htm" />
   <HelpKINode Title="VersionNumber property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLineAccess.VersionNumber.htm" />
   <HelpKINode Title="VolumeGroupCode property">
-    <HelpKINode Title="VolumeGroupCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderAccess.VolumeGroupCode.htm" />
     <HelpKINode Title="VolumeGroupCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderSubscription.VolumeGroupCode.htm" />
+    <HelpKINode Title="VolumeGroupCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.OrderLine.OrderAccess.VolumeGroupCode.htm" />
   </HelpKINode>
   <HelpKINode Title="VoucherCode class">
     <HelpKINode Title="VoucherCode Class" Url="html/T-CDSGlobal.WebOrderLibrary.MarsOrders.VoucherCode.htm" />
@@ -4698,14 +4698,14 @@
   <HelpKINode Title="VoucherItem.ItemCode property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.VoucherItem.ItemCode.htm" />
   <HelpKINode Title="VoucherItem.VoucherCode property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.VoucherItem.VoucherCode.htm" />
   <HelpKINode Title="WarehouseCode property">
-    <HelpKINode Title="WarehouseCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.WarehouseCode.htm" />
     <HelpKINode Title="WarehouseCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.WarehouseCode.htm" />
+    <HelpKINode Title="WarehouseCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.WarehouseCode.htm" />
   </HelpKINode>
   <HelpKINode Title="WebApiPassword property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.MarsOrderContainer.WebApiPassword.htm" />
   <HelpKINode Title="WebApiUser property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.MarsOrderContainer.WebApiUser.htm" />
   <HelpKINode Title="WebBillMeAllowed property">
-    <HelpKINode Title="WebBillMeAllowed Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.WebBillMeAllowed.htm" />
     <HelpKINode Title="WebBillMeAllowed Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.WebBillMeAllowed.htm" />
+    <HelpKINode Title="WebBillMeAllowed Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Order.WebBillMeAllowed.htm" />
   </HelpKINode>
   <HelpKINode Title="WebBillMeAlloweds.No field" Url="html/F-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.WebBillMeAlloweds.No.htm" />
   <HelpKINode Title="WebBillMeAlloweds.Yes field" Url="html/F-CDSGlobal.WebOrderLibrary.MarsOrders.CreatedOrder.WebBillMeAlloweds.Yes.htm" />
@@ -4882,8 +4882,8 @@
   <HelpKINode Title="ZipStart property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.GeoState.ZipStart.htm" />
   <HelpKINode Title="Zone property" Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.Country.Zone.htm" />
   <HelpKINode Title="ZoneCode property">
-    <HelpKINode Title="ZoneCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.ItemZoneRate.ZoneCode.htm" />
-    <HelpKINode Title="ZoneCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionZoneRate.ZoneCode.htm" />
     <HelpKINode Title="ZoneCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.PromotionItemZoneRate.ZoneCode.htm" />
+    <HelpKINode Title="ZoneCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.SubscriptionZoneRate.ZoneCode.htm" />
+    <HelpKINode Title="ZoneCode Property " Url="html/P-CDSGlobal.WebOrderLibrary.MarsOrders.ItemZoneRate.ZoneCode.htm" />
   </HelpKINode>
 </HelpKI>
